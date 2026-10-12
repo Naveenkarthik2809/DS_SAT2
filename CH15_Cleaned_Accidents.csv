@@ -1,0 +1,1000 @@
+incident_id,date,time,location,severity,road_type,junction,speed_limit,rain,visibility,condition,traffic_volume,peak_flag,vehicle_category,vehicle_count,hour,time_of_day,day_of_week,month
+INC00001,2025-11-11,02:15,School Zone,Fatal,Highway,No Junction,30,Yes,Moderate,Clear,952,No,Truck,3,2,Night,1,11
+INC00002,2025-05-21,01:15,Highway East,Minor,Industrial Road,Roundabout,60,No,Moderate,Clear,833,No,Bicycle,3,1,Night,2,5
+INC00003,2025-05-30,22:15,School Zone,Minor,Residential Road,Roundabout,60,No,Moderate,Clear,1415,No,Bicycle,2,22,Night,4,5
+INC00004,2025-08-19,13:45,Bus Stand Road,Moderate,Highway,Roundabout,40,No,Poor,Clear,705,No,Car,1,13,Afternoon,1,8
+INC00005,2024-06-25,11:15,School Zone,Moderate,Urban Road,Roundabout,60,No,Poor,Clear,928,No,Truck,2,11,Morning,1,6
+INC00006,2024-09-08,05:15,College Road,Minor,Urban Road,Crossroad,50,No,Good,Rainy,1215,No,Van,4,5,Morning,6,9
+INC00007,2024-05-28,03:30,Market Road,Moderate,Residential Road,Roundabout,30,No,Good,Foggy,1359,No,Car,1,3,Night,1,5
+INC00008,2024-02-02,20:00,Central Junction,Serious,Residential Road,No Junction,50,No,Good,Rainy,289,No,Bicycle,4,20,Evening,4,2
+INC00009,2024-11-19,08:45,College Road,Minor,Residential Road,No Junction,50,No,Good,Rainy,980,Yes,Bus,3,8,Morning,1,11
+INC00010,2025-02-21,21:30,Highway East,Moderate,Industrial Road,T-Junction,80,Yes,Moderate,Clear,1332,No,Bicycle,1,21,Night,4,2
+INC00011,2025-12-08,03:15,Bus Stand Road,Moderate,School Zone,Crossroad,30,No,Poor,Clear,531,No,Bicycle,3,3,Night,0,12
+INC00012,2024-04-16,23:00,Bus Stand Road,Serious,Highway,T-Junction,80,Yes,Moderate,Clear,1303,No,Van,4,23,Night,1,4
+INC00013,2025-12-18,00:15,Unknown,Moderate,Residential Road,No Junction,40,No,Poor,Clear,776,No,Car,4,0,Night,3,12
+INC00014,2025-06-09,21:30,Central Junction,Minor,School Zone,Crossroad,40,Yes,Good,Clear,1031,No,Van,4,21,Night,0,6
+INC00015,2024-12-07,06:30,Market Road,Moderate,Residential Road,No Junction,40,No,Moderate,Clear,1132,No,Bicycle,2,6,Morning,5,12
+INC00016,2024-09-09,01:30,Central Junction,Moderate,Urban Road,T-Junction,40,Yes,Moderate,Rainy,301,No,Van,3,1,Night,0,9
+INC00017,2025-05-23,02:00,Market Road,Serious,School Zone,No Junction,30,No,Good,Cloudy,1437,No,Van,4,2,Night,4,5
+INC00018,2024-11-30,05:45,Market Road,Moderate,School Zone,T-Junction,60,No,Poor,Foggy,1392,No,Van,3,5,Morning,5,11
+INC00019,2024-07-15,22:15,Market Road,Fatal,Urban Road,No Junction,50,No,Moderate,Rainy,426,No,Van,3,22,Night,0,7
+INC00020,2025-12-14,03:45,Central Junction,Moderate,Urban Road,No Junction,50,No,Poor,Rainy,874,No,Car,1,3,Night,6,12
+INC00021,2024-06-06,01:15,Highway East,Minor,Residential Road,Crossroad,30,No,Good,Rainy,439,No,Bicycle,2,1,Night,3,6
+INC00022,2025-07-25,09:00,Central Junction,Moderate,Highway,No Junction,80,No,Moderate,Clear,921,Yes,Bus,4,9,Morning,4,7
+INC00023,2024-03-13,23:30,Market Road,Minor,School Zone,T-Junction,50,Yes,Moderate,Clear,436,No,Bicycle,4,23,Night,2,3
+INC00024,2025-09-08,08:30,Bus Stand Road,Moderate,School Zone,Crossroad,30,No,Good,Clear,985,Yes,Truck,1,8,Morning,0,9
+INC00025,2024-04-12,08:00,River Bridge,Minor,Highway,No Junction,50,No,Good,Rainy,1410,Yes,Car,2,8,Morning,4,4
+INC00026,2025-02-09,06:15,Market Road,Minor,Residential Road,Roundabout,50,No,Good,Cloudy,835,No,Bicycle,1,6,Morning,6,2
+INC00027,2025-01-16,20:30,Bus Stand Road,Serious,School Zone,Crossroad,30,Yes,Poor,Clear,573,No,Car,1,20,Evening,3,1
+INC00028,2025-11-19,16:00,Bus Stand Road,Minor,Industrial Road,No Junction,80,No,Good,Rainy,1041,No,Truck,4,16,Afternoon,2,11
+INC00029,2025-10-11,10:45,Bus Stand Road,Serious,Urban Road,T-Junction,40,No,Good,Rainy,1164,No,Truck,2,10,Morning,5,10
+INC00030,2024-01-14,19:30,Highway East,Serious,Industrial Road,Crossroad,50,No,Good,Clear,73,Yes,Bus,3,19,Evening,6,1
+INC00031,2025-11-14,09:30,Market Road,Moderate,Industrial Road,Crossroad,50,No,Moderate,Rainy,1327,Yes,Bus,1,9,Morning,4,11
+INC00032,2025-10-11,23:45,Industrial Area,Minor,School Zone,Crossroad,80,Yes,Good,Clear,685,No,Two-wheeler,4,23,Night,5,10
+INC00033,2024-08-26,22:45,Bus Stand Road,Moderate,Urban Road,Crossroad,30,Yes,Good,Cloudy,762,No,Bicycle,4,22,Night,0,8
+INC00034,2024-10-11,01:30,River Bridge,Moderate,Urban Road,No Junction,80,No,Good,Cloudy,196,No,Truck,1,1,Night,4,10
+INC00035,2024-11-11,06:45,Highway East,Serious,Highway,No Junction,50,Yes,Moderate,Rainy,795,No,Truck,2,6,Morning,0,11
+INC00036,2024-06-18,10:45,College Road,Serious,Industrial Road,Roundabout,50,No,Moderate,Clear,1483,No,Two-wheeler,2,10,Morning,1,6
+INC00037,2024-06-13,10:15,Central Junction,Serious,Industrial Road,T-Junction,40,Yes,Good,Rainy,258,No,Truck,4,10,Morning,3,6
+INC00038,2025-01-25,07:30,Central Junction,Minor,Urban Road,T-Junction,50,No,Moderate,Cloudy,419,Yes,Car,2,7,Morning,5,1
+INC00039,2025-04-29,17:15,Highway East,Minor,Residential Road,T-Junction,30,No,Moderate,Cloudy,204,Yes,Car,2,17,Evening,1,4
+INC00040,2025-11-21,21:30,Market Road,Serious,School Zone,Roundabout,60,No,Poor,Clear,253,No,Bicycle,1,21,Night,4,11
+INC00041,2025-11-14,05:15,School Zone,Minor,Residential Road,T-Junction,50,Yes,Moderate,Clear,240,No,Van,2,5,Morning,4,11
+INC00042,2024-08-29,01:45,Central Junction,Moderate,Industrial Road,Crossroad,50,No,Good,Foggy,317,No,Bicycle,1,1,Night,3,8
+INC00043,2024-06-16,18:45,Central Junction,Minor,Residential Road,Crossroad,30,No,Good,Foggy,831,Yes,Two-wheeler,2,18,Evening,6,6
+INC00044,2025-10-26,20:15,Bus Stand Road,Minor,Highway,Roundabout,60,No,Good,Foggy,1370,No,Van,3,20,Evening,6,10
+INC00045,2024-03-11,20:30,College Road,Moderate,Residential Road,Roundabout,40,No,Poor,Rainy,445,No,Truck,1,20,Evening,0,3
+INC00046,2024-12-07,00:15,Bus Stand Road,Minor,Residential Road,Roundabout,80,Yes,Good,Clear,1174,No,Car,4,0,Night,5,12
+INC00047,2025-03-06,17:15,Highway East,Minor,Residential Road,Roundabout,40,No,Poor,Clear,321,Yes,Bicycle,2,17,Evening,3,3
+INC00048,2025-12-08,02:30,Central Junction,Serious,School Zone,No Junction,50,Yes,Good,Clear,101,No,Truck,3,2,Night,0,12
+INC00049,2024-11-03,21:30,Central Junction,Fatal,Highway,No Junction,60,No,Moderate,Foggy,1132,No,Truck,1,21,Night,6,11
+INC00050,2025-07-12,05:45,School Zone,Minor,Urban Road,Crossroad,60,Yes,Moderate,Cloudy,1170,No,Car,3,5,Morning,5,7
+INC00052,2025-07-26,12:45,Bus Stand Road,Moderate,Industrial Road,No Junction,80,Yes,Good,Clear,556,No,Two-wheeler,1,12,Afternoon,5,7
+INC00053,2025-08-02,14:15,Market Road,Minor,Highway,Roundabout,80,Yes,Good,Rainy,577,No,Bicycle,2,14,Afternoon,5,8
+INC00054,2024-09-21,07:15,College Road,Minor,Highway,Crossroad,60,No,Good,Cloudy,1288,Yes,Bicycle,3,7,Morning,5,9
+INC00055,2025-11-24,08:00,School Zone,Moderate,Highway,Roundabout,60,Yes,Poor,Clear,307,Yes,Bicycle,2,8,Morning,0,11
+INC00056,2025-03-05,18:30,School Zone,Minor,Highway,T-Junction,60,No,Good,Clear,348,Yes,Car,1,18,Evening,2,3
+INC00057,2024-12-08,09:45,School Zone,Moderate,Urban Road,Roundabout,50,No,Good,Rainy,1148,Yes,Truck,1,9,Morning,6,12
+INC00058,2024-06-30,00:00,Market Road,Moderate,Highway,No Junction,50,No,Good,Rainy,195,No,Bicycle,2,0,Night,6,6
+INC00059,2024-02-22,03:00,Industrial Area,Minor,School Zone,No Junction,50,No,Poor,Cloudy,150,No,Car,1,3,Night,3,2
+INC00060,2025-08-07,12:30,River Bridge,Serious,Industrial Road,No Junction,50,No,Good,Clear,1105,No,Van,2,12,Afternoon,3,8
+INC00061,2024-02-29,00:00,School Zone,Moderate,Urban Road,Roundabout,60,No,Good,Cloudy,171,No,Two-wheeler,2,0,Night,3,2
+INC00062,2024-07-07,13:00,Central Junction,Minor,Highway,Crossroad,50,No,Poor,Cloudy,1386,No,Car,1,13,Afternoon,6,7
+INC00063,2024-03-22,15:15,Highway East,Serious,Industrial Road,T-Junction,50,No,Good,Cloudy,304,No,Bus,3,15,Afternoon,4,3
+INC00064,2025-05-06,14:45,College Road,Minor,School Zone,Roundabout,50,Yes,Good,Clear,1331,No,Two-wheeler,1,14,Afternoon,1,5
+INC00065,2025-07-29,03:45,Highway East,Minor,Highway,No Junction,50,No,Poor,Rainy,1057,No,Two-wheeler,1,3,Night,1,7
+INC00066,2024-02-25,06:30,Central Junction,Fatal,Highway,No Junction,50,No,Good,Cloudy,1253,No,Car,1,6,Morning,6,2
+INC00067,2024-07-06,12:30,Central Junction,Minor,Urban Road,T-Junction,50,No,Moderate,Cloudy,1383,No,Car,1,12,Afternoon,5,7
+INC00068,2024-06-29,11:00,Highway East,Moderate,School Zone,Roundabout,60,No,Good,Rainy,334,No,Bus,4,11,Morning,5,6
+INC00069,2025-07-29,17:15,School Zone,Serious,Urban Road,Crossroad,80,No,Moderate,Foggy,826,Yes,Truck,3,17,Evening,1,7
+INC00070,2024-09-18,12:15,Central Junction,Moderate,Residential Road,Roundabout,50,No,Poor,Clear,1307,No,Car,1,12,Afternoon,2,9
+INC00071,2025-04-01,14:15,Central Junction,,School Zone,Roundabout,50,Yes,Good,Clear,685,No,Bus,2,14,Afternoon,1,4
+INC00072,2024-05-05,02:45,School Zone,Moderate,Highway,Roundabout,60,No,Moderate,Clear,664,No,Bicycle,3,2,Night,6,5
+INC00073,2024-05-22,06:45,School Zone,Fatal,Urban Road,T-Junction,60,No,Good,Clear,1378,No,Bus,1,6,Morning,2,5
+INC00074,2024-07-09,11:00,Central Junction,Minor,Highway,T-Junction,30,No,Good,Rainy,602,No,Two-wheeler,3,11,Morning,1,7
+INC00075,2024-01-12,11:00,Bus Stand Road,Moderate,Industrial Road,Crossroad,30,No,Moderate,Clear,1194,No,Bus,3,11,Morning,4,1
+INC00076,2024-05-27,09:45,Industrial Area,Moderate,Highway,T-Junction,80,No,Good,Clear,589,Yes,Car,3,9,Morning,0,5
+INC00077,2025-05-02,06:45,Highway East,Moderate,Residential Road,Crossroad,50,Yes,Moderate,Clear,713,No,Car,4,6,Morning,4,5
+INC00078,2024-01-30,02:00,Central Junction,Serious,Industrial Road,No Junction,50,No,Good,Clear,138,No,Bus,2,2,Night,1,1
+INC00079,2025-04-25,16:00,Highway East,Serious,School Zone,No Junction,50,No,Good,Clear,512,No,Bicycle,2,16,Afternoon,4,4
+INC00080,2024-09-07,10:15,River Bridge,Moderate,Residential Road,Roundabout,40,No,Moderate,Rainy,893,No,Bicycle,4,10,Morning,5,9
+INC00081,2024-02-19,18:30,Market Road,Serious,Highway,T-Junction,60,No,Poor,Clear,1131,Yes,Two-wheeler,4,18,Evening,0,2
+INC00082,2024-12-08,14:15,Market Road,Moderate,Highway,T-Junction,50,Yes,Good,Clear,349,No,Truck,1,14,Afternoon,6,12
+INC00083,2024-03-11,06:45,Market Road,Moderate,School Zone,T-Junction,40,No,Good,Cloudy,1025,No,Two-wheeler,1,6,Morning,0,3
+INC00084,2024-11-01,03:30,College Road,Minor,Residential Road,No Junction,60,Yes,Good,Cloudy,1131,No,Bicycle,1,3,Night,4,11
+INC00085,2025-09-09,20:45,Bus Stand Road,Minor,School Zone,Crossroad,80,Yes,Good,Foggy,721,No,Two-wheeler,2,20,Evening,1,9
+INC00086,2025-10-19,04:45,Highway East,Minor,Highway,Crossroad,40,No,Poor,Clear,924,No,Bus,2,4,Night,6,10
+INC00087,2024-10-01,08:45,Highway East,Moderate,Residential Road,T-Junction,40,Yes,Poor,Cloudy,697,Yes,Two-wheeler,3,8,Morning,1,10
+INC00088,2024-03-05,05:45,Unknown,Moderate,Urban Road,T-Junction,80,No,Good,Rainy,346,No,Car,3,5,Morning,1,3
+INC00089,2025-07-20,04:45,School Zone,Minor,Industrial Road,T-Junction,60,Yes,Good,Clear,1383,No,Van,3,4,Night,6,7
+INC00090,2025-04-01,16:00,Highway East,Minor,School Zone,Roundabout,50,No,Good,Clear,1442,No,Bus,3,16,Afternoon,1,4
+INC00091,2025-03-28,17:30,College Road,Minor,Urban Road,Crossroad,30,No,Moderate,Clear,120,Yes,Two-wheeler,2,17,Evening,4,3
+INC00092,2024-09-11,06:45,Highway East,Moderate,Industrial Road,Crossroad,40,Yes,Good,Rainy,1175,No,Van,1,6,Morning,2,9
+INC00093,2025-02-20,06:15,Bus Stand Road,Minor,Residential Road,Roundabout,60,No,Good,Cloudy,120,No,Bus,2,6,Morning,3,2
+INC00094,2024-01-19,11:30,Central Junction,Minor,Urban Road,T-Junction,60,No,Good,Foggy,298,No,Bus,1,11,Morning,4,1
+INC00095,2025-09-06,16:00,School Zone,Minor,Highway,Crossroad,30,No,Good,Clear,108,No,Truck,1,16,Afternoon,5,9
+INC00096,2025-07-19,00:15,Central Junction,Moderate,Urban Road,No Junction,60,Yes,Moderate,Clear,430,No,Bus,4,0,Night,5,7
+INC00097,2025-11-15,11:15,Highway East,Moderate,Highway,Roundabout,30,No,Good,Clear,819,No,Car,4,11,Morning,5,11
+INC00098,2024-11-04,09:30,Highway East,Moderate,Industrial Road,Crossroad,50,No,Good,Clear,995,Yes,Truck,3,9,Morning,0,11
+INC00099,2024-02-06,05:15,Highway East,Serious,School Zone,Crossroad,40,No,Good,Clear,207,No,Van,2,5,Morning,1,2
+INC00100,2025-12-14,08:15,Market Road,Minor,Residential Road,Roundabout,80,Yes,Good,Clear,1316,Yes,Bicycle,2,8,Morning,6,12
+INC00101,2025-11-05,03:30,College Road,Minor,Highway,No Junction,60,No,Good,Foggy,657,No,Bicycle,2,3,Night,2,11
+INC00102,2025-07-20,16:45,School Zone,Minor,Residential Road,Crossroad,60,No,Good,Cloudy,1354,No,Car,3,16,Afternoon,6,7
+INC00103,2024-04-27,20:30,School Zone,Moderate,Urban Road,Roundabout,50,No,Good,Clear,896,No,Bicycle,4,20,Evening,5,4
+INC00104,2025-09-27,20:45,School Zone,Serious,Industrial Road,Roundabout,50,Yes,Good,Rainy,604,No,Van,3,20,Evening,5,9
+INC00105,2025-01-31,07:45,Highway East,Serious,School Zone,Roundabout,50,Yes,Good,Rainy,1402,Yes,Van,3,7,Morning,4,1
+INC00106,2025-02-17,17:30,Highway East,Minor,Residential Road,Roundabout,60,No,Good,Clear,856,Yes,Bus,1,17,Evening,0,2
+INC00107,2025-03-18,00:45,Market Road,Minor,School Zone,Roundabout,40,Yes,Good,Clear,1310,No,Truck,4,0,Night,1,3
+INC00108,2024-09-05,05:00,Industrial Area,Moderate,Urban Road,No Junction,50,No,Moderate,Cloudy,273,No,Truck,1,5,Morning,3,9
+INC00109,2024-12-21,17:15,Highway East,Serious,Residential Road,Crossroad,40,No,Good,Clear,455,Yes,Van,1,17,Evening,5,12
+INC00110,2025-09-16,03:30,River Bridge,Moderate,Industrial Road,Crossroad,50,No,Poor,Cloudy,606,No,Car,1,3,Night,1,9
+INC00111,2024-04-02,20:45,Industrial Area,Moderate,Industrial Road,T-Junction,60,No,Good,Clear,1189,No,Truck,4,20,Evening,1,4
+INC00112,2024-10-29,06:45,School Zone,Minor,Residential Road,No Junction,80,No,Good,Clear,137,No,Truck,4,6,Morning,1,10
+INC00113,2024-12-13,16:00,Central Junction,Serious,Residential Road,Roundabout,80,No,Moderate,Rainy,1106,No,Van,4,16,Afternoon,4,12
+INC00114,2025-09-28,01:30,Market Road,Moderate,Highway,Roundabout,40,No,Moderate,Cloudy,414,No,Bicycle,4,1,Night,6,9
+INC00115,2025-03-10,17:00,Bus Stand Road,Fatal,Urban Road,Roundabout,60,No,Poor,Cloudy,435,Yes,Car,4,17,Evening,0,3
+INC00116,2025-10-29,19:15,Industrial Area,Moderate,Highway,Roundabout,50,No,Moderate,Clear,1115,Yes,Two-wheeler,2,19,Evening,2,10
+INC00117,2025-11-18,14:00,River Bridge,Moderate,Highway,Roundabout,60,No,Good,Clear,1136,No,Two-wheeler,4,14,Afternoon,1,11
+INC00118,2024-09-15,00:00,School Zone,Minor,Residential Road,Roundabout,50,No,Moderate,Rainy,1163,No,Car,1,0,Night,6,9
+INC00119,2024-02-10,14:15,Central Junction,Moderate,Urban Road,No Junction,50,No,Moderate,Cloudy,1245,No,Two-wheeler,4,14,Afternoon,5,2
+INC00120,2025-06-14,14:00,River Bridge,Minor,Residential Road,No Junction,40,No,Good,Clear,1413,No,Bus,1,14,Afternoon,5,6
+INC00121,2025-06-13,07:00,School Zone,Fatal,Highway,Crossroad,50,No,Good,Clear,1408,Yes,Truck,4,7,Morning,4,6
+INC00122,2025-08-17,02:15,River Bridge,Moderate,Industrial Road,No Junction,80,No,Moderate,Foggy,575,No,Bicycle,4,2,Night,6,8
+INC00123,2024-04-11,07:00,Market Road,Moderate,Industrial Road,Crossroad,80,No,Good,Rainy,387,Yes,Car,2,7,Morning,3,4
+INC00124,2025-12-30,01:00,School Zone,Minor,Urban Road,Crossroad,30,No,Good,Rainy,1256,No,Car,4,1,Night,1,12
+INC00125,2025-01-11,20:30,Market Road,Minor,School Zone,T-Junction,40,No,Good,Rainy,1421,No,Car,2,20,Evening,5,1
+INC00126,2024-11-30,09:00,Market Road,Minor,Industrial Road,Roundabout,60,No,Good,Foggy,1103,Yes,Car,3,9,Morning,5,11
+INC00127,2024-08-29,14:45,Industrial Area,Moderate,Highway,No Junction,50,No,Good,Rainy,492,No,Car,3,14,Afternoon,3,8
+INC00128,2024-05-26,18:45,Market Road,Moderate,Industrial Road,Roundabout,40,Yes,Good,Clear,1381,Yes,Two-wheeler,1,18,Evening,6,5
+INC00129,2025-05-19,11:45,School Zone,Moderate,Highway,T-Junction,50,No,Moderate,Rainy,117,No,Two-wheeler,3,11,Morning,0,5
+INC00130,2024-07-07,09:45,River Bridge,Moderate,Residential Road,Crossroad,40,No,Moderate,Clear,1488,Yes,Bus,4,9,Morning,6,7
+INC00131,2025-02-06,11:00,Bus Stand Road,Minor,Highway,Crossroad,40,No,Good,Clear,1193,No,Two-wheeler,1,11,Morning,3,2
+INC00132,2024-10-06,17:30,Central Junction,Serious,School Zone,No Junction,80,No,Good,Clear,100,Yes,Bicycle,4,17,Evening,6,10
+INC00133,2024-11-29,23:15,School Zone,Minor,Residential Road,No Junction,60,Yes,Moderate,Clear,929,No,Car,1,23,Night,4,11
+INC00134,2024-02-22,07:15,College Road,Minor,Residential Road,Crossroad,80,No,Moderate,Cloudy,150,Yes,Bus,1,7,Morning,3,2
+INC00135,2024-02-20,02:30,Market Road,Minor,Highway,T-Junction,60,No,Moderate,Rainy,221,No,Van,2,2,Night,1,2
+INC00136,2025-05-21,17:30,Central Junction,Serious,Highway,T-Junction,60,No,Good,Rainy,1153,Yes,Truck,1,17,Evening,2,5
+INC00137,2024-06-19,07:30,Bus Stand Road,Serious,Residential Road,Crossroad,40,No,Good,Clear,875,Yes,Car,1,7,Morning,2,6
+INC00138,2024-02-11,06:30,Market Road,Serious,School Zone,T-Junction,80,No,Good,Clear,768,No,Van,4,6,Morning,6,2
+INC00139,2025-10-26,17:00,School Zone,Minor,Urban Road,Crossroad,80,No,Moderate,Foggy,1057,Yes,Two-wheeler,1,17,Evening,6,10
+INC00140,2024-12-05,16:30,Highway East,Serious,Industrial Road,T-Junction,50,No,Good,Rainy,215,No,Bus,1,16,Afternoon,3,12
+INC00141,2025-06-17,20:45,Industrial Area,Minor,Industrial Road,No Junction,50,No,Moderate,Clear,1017,No,Bus,2,20,Evening,1,6
+INC00142,2025-12-30,23:15,Bus Stand Road,Moderate,Industrial Road,Roundabout,40,No,Good,Foggy,603,No,Car,2,23,Night,1,12
+INC00143,2025-07-31,15:15,Market Road,Moderate,Highway,T-Junction,60,Yes,Moderate,Cloudy,1215,No,Van,1,15,Afternoon,3,7
+INC00144,2024-10-21,09:15,Highway East,Minor,Urban Road,Roundabout,60,No,Moderate,Clear,1069,Yes,Truck,4,9,Morning,0,10
+INC00145,2024-02-09,06:30,Highway East,Minor,Residential Road,Roundabout,60,Yes,Poor,Clear,689,No,Bicycle,2,6,Morning,4,2
+INC00146,2024-06-02,01:15,Market Road,Serious,Residential Road,Crossroad,40,Yes,Moderate,Clear,817,No,Van,4,1,Night,6,6
+INC00147,2025-01-16,13:30,Industrial Area,Fatal,Industrial Road,Roundabout,60,Yes,Good,Clear,1253,No,Van,4,13,Afternoon,3,1
+INC00148,2024-10-25,16:30,Industrial Area,Minor,Industrial Road,Crossroad,50,No,Good,Clear,791,No,Two-wheeler,1,16,Afternoon,4,10
+INC00149,2025-10-08,15:30,Bus Stand Road,Serious,School Zone,Crossroad,80,No,Good,Clear,247,No,Car,1,15,Afternoon,2,10
+INC00150,2024-07-09,21:45,Central Junction,Minor,Urban Road,Roundabout,80,No,Good,Rainy,1221,No,Two-wheeler,1,21,Night,1,7
+INC00151,2025-01-14,11:00,Industrial Area,Minor,Urban Road,Roundabout,50,No,Good,Clear,751,No,Van,4,11,Morning,1,1
+INC00152,2024-05-27,00:15,Central Junction,Minor,Industrial Road,No Junction,40,No,Poor,Rainy,885,No,Bus,1,0,Night,0,5
+INC00153,2024-08-21,02:30,Industrial Area,Minor,Highway,T-Junction,80,No,Good,Clear,156,No,Truck,4,2,Night,2,8
+INC00154,2024-07-09,22:30,Market Road,Minor,Residential Road,Crossroad,50,No,Good,Rainy,907,No,Two-wheeler,1,22,Night,1,7
+INC00155,2025-06-25,17:15,Central Junction,Moderate,School Zone,No Junction,60,No,Good,Cloudy,359,Yes,Bus,4,17,Evening,2,6
+INC00156,2024-08-11,05:30,River Bridge,Minor,Residential Road,T-Junction,60,No,Poor,Rainy,1311,No,Van,4,5,Morning,6,8
+INC00157,2024-05-15,17:45,Market Road,Minor,School Zone,Crossroad,60,No,Good,Clear,473,Yes,Bicycle,3,17,Evening,2,5
+INC00158,2024-11-30,13:15,River Bridge,Moderate,Industrial Road,No Junction,80,No,Moderate,Clear,795,No,Car,3,13,Afternoon,5,11
+INC00159,2025-01-11,22:15,Market Road,Fatal,Urban Road,Roundabout,60,Yes,Good,Rainy,206,No,Bicycle,1,22,Night,5,1
+INC00160,2024-07-25,22:15,Central Junction,Moderate,Urban Road,No Junction,80,No,Moderate,Rainy,1073,No,Car,1,22,Night,3,7
+INC00161,2024-03-19,05:15,Central Junction,Minor,Residential Road,No Junction,40,Yes,Good,Rainy,1232,No,Two-wheeler,3,5,Morning,1,3
+INC00162,2025-04-12,05:45,Market Road,Serious,Residential Road,Crossroad,50,No,Good,Clear,1102,No,Bicycle,4,5,Morning,5,4
+INC00163,2024-11-19,01:45,School Zone,Minor,Urban Road,No Junction,30,No,Poor,Cloudy,388,No,Bicycle,4,1,Night,1,11
+INC00164,2025-09-18,12:45,River Bridge,Fatal,School Zone,Roundabout,80,Yes,Moderate,Foggy,633,No,Van,4,12,Afternoon,3,9
+INC00165,2025-10-08,03:45,Highway East,Fatal,School Zone,Roundabout,60,No,Good,Clear,492,No,Two-wheeler,4,3,Night,2,10
+INC00166,2024-01-18,09:30,Market Road,Moderate,Urban Road,T-Junction,30,No,Moderate,Rainy,798,Yes,Car,1,9,Morning,3,1
+INC00167,2024-11-10,22:30,Market Road,Moderate,Highway,T-Junction,50,No,Good,Cloudy,1064,No,Van,2,22,Night,6,11
+INC00168,2024-12-06,08:30,River Bridge,Minor,Residential Road,Crossroad,40,No,Poor,Rainy,428,Yes,Truck,1,8,Morning,4,12
+INC00169,2024-04-08,12:30,Central Junction,Moderate,Highway,Roundabout,50,No,Good,Clear,1181,No,Bicycle,1,12,Afternoon,0,4
+INC00170,2025-03-26,10:45,Highway East,Minor,School Zone,Roundabout,40,No,Good,Cloudy,502,No,Two-wheeler,3,10,Morning,2,3
+INC00171,2025-08-23,13:30,Central Junction,Moderate,Highway,No Junction,60,No,Moderate,Clear,239,No,Truck,1,13,Afternoon,5,8
+INC00172,2024-12-13,10:30,Central Junction,Moderate,Highway,Roundabout,50,No,Moderate,Clear,84,No,Truck,2,10,Morning,4,12
+INC00173,2024-10-07,15:00,Industrial Area,Serious,Highway,Roundabout,50,No,Good,Rainy,282,No,Bus,4,15,Afternoon,0,10
+INC00174,2025-04-28,18:45,Highway East,Moderate,Residential Road,T-Junction,60,No,Good,Cloudy,923,Yes,Van,2,18,Evening,0,4
+INC00175,2024-08-30,07:00,School Zone,Moderate,Residential Road,T-Junction,50,No,Moderate,Clear,1381,Yes,Two-wheeler,3,7,Morning,4,8
+INC00176,2024-05-30,15:15,School Zone,Moderate,Highway,Crossroad,40,No,Good,Clear,824,No,Bicycle,1,15,Afternoon,3,5
+INC00177,2025-07-05,15:15,Industrial Area,Minor,Urban Road,T-Junction,30,No,Good,Rainy,1175,No,Truck,4,15,Afternoon,5,7
+INC00178,2025-11-14,21:00,Bus Stand Road,Minor,Residential Road,T-Junction,40,Yes,Good,Clear,841,No,Bicycle,3,21,Night,4,11
+INC00179,2024-09-15,12:45,Market Road,Minor,Urban Road,No Junction,80,Yes,Good,Cloudy,256,No,Bicycle,3,12,Afternoon,6,9
+INC00180,2025-12-29,07:30,Market Road,Minor,Industrial Road,No Junction,30,No,Good,Rainy,1220,Yes,Van,4,7,Morning,0,12
+INC00181,2025-05-22,15:15,River Bridge,Minor,School Zone,T-Junction,30,No,Moderate,Clear,215,No,Bicycle,3,15,Afternoon,3,5
+INC00182,2025-08-28,12:45,Industrial Area,Minor,School Zone,Crossroad,80,No,Good,Cloudy,508,No,Two-wheeler,3,12,Afternoon,3,8
+INC00183,2025-03-24,06:30,Highway East,Serious,Residential Road,Crossroad,40,No,Good,Clear,944,No,Van,3,6,Morning,0,3
+INC00184,2025-03-03,13:30,Market Road,Moderate,Highway,Crossroad,60,No,Poor,Clear,1332,No,Van,2,13,Afternoon,0,3
+INC00185,2025-11-02,22:30,Central Junction,Minor,Urban Road,T-Junction,40,No,Good,Cloudy,621,No,Two-wheeler,2,22,Night,6,11
+INC00186,2025-08-31,09:45,Market Road,Minor,School Zone,Roundabout,40,No,Good,Clear,922,Yes,Bus,3,9,Morning,6,8
+INC00187,2025-03-22,10:45,Market Road,Moderate,Industrial Road,T-Junction,50,No,Moderate,Rainy,1464,No,Two-wheeler,4,10,Morning,5,3
+INC00188,2025-05-06,19:45,Highway East,Serious,Residential Road,T-Junction,50,No,Good,Clear,769,Yes,Truck,2,19,Evening,1,5
+INC00189,2024-04-17,05:15,Industrial Area,Serious,Residential Road,No Junction,60,No,Moderate,Rainy,136,No,Bus,3,5,Morning,2,4
+INC00190,2025-09-24,17:45,Market Road,Minor,Highway,No Junction,50,No,Good,Cloudy,1151,Yes,Two-wheeler,1,17,Evening,2,9
+INC00191,2025-12-07,04:45,Bus Stand Road,Minor,School Zone,Roundabout,50,No,Good,Cloudy,567,No,Car,3,4,Night,6,12
+INC00192,2024-12-30,01:15,Highway East,Moderate,Highway,Roundabout,60,Yes,Good,Foggy,1327,No,Bus,4,1,Night,0,12
+INC00193,2025-05-30,06:15,Central Junction,Moderate,Urban Road,No Junction,50,Yes,Poor,Rainy,807,No,Two-wheeler,3,6,Morning,4,5
+INC00194,2024-07-25,15:00,School Zone,Serious,Urban Road,Roundabout,50,No,Moderate,Clear,278,No,Truck,4,15,Afternoon,3,7
+INC00195,2025-09-16,07:15,Central Junction,Minor,School Zone,No Junction,40,No,Good,Cloudy,1063,Yes,Truck,4,7,Morning,1,9
+INC00196,2025-02-11,03:45,Highway East,Moderate,Residential Road,T-Junction,60,No,Good,Cloudy,1320,No,Bicycle,3,3,Night,1,2
+INC00197,2025-02-15,08:30,Market Road,Serious,School Zone,T-Junction,30,No,Moderate,Clear,1480,Yes,Two-wheeler,3,8,Morning,5,2
+INC00198,2024-12-28,03:15,Highway East,Minor,Residential Road,Roundabout,60,No,Good,Cloudy,1335,No,Two-wheeler,4,3,Night,5,12
+INC00199,2025-11-23,11:00,School Zone,Serious,Urban Road,T-Junction,50,No,Good,Clear,968,No,Truck,2,11,Morning,6,11
+INC00200,2024-06-02,17:00,Highway East,Moderate,Highway,No Junction,80,No,Good,Clear,1115,Yes,Truck,2,17,Evening,6,6
+INC00201,2024-01-10,05:30,Central Junction,Minor,Urban Road,T-Junction,30,No,Good,Foggy,559,No,Bus,1,5,Morning,2,1
+INC00202,2025-05-06,11:30,Bus Stand Road,Serious,Highway,No Junction,40,No,Moderate,Rainy,1214,No,Truck,1,11,Morning,1,5
+INC00203,2025-05-04,06:45,Unknown,Moderate,School Zone,No Junction,50,No,Good,Rainy,297,No,Bus,1,6,Morning,6,5
+INC00204,2025-06-18,06:45,Industrial Area,Minor,Industrial Road,T-Junction,50,Yes,Good,Clear,1001,No,Car,4,6,Morning,2,6
+INC00205,2024-04-22,14:30,College Road,Moderate,School Zone,Roundabout,60,No,Poor,Cloudy,131,No,Bicycle,4,14,Afternoon,0,4
+INC00206,2024-07-11,23:15,River Bridge,Minor,Industrial Road,T-Junction,50,Yes,Moderate,Rainy,269,No,Car,1,23,Night,3,7
+INC00207,2025-05-03,14:15,Central Junction,Serious,Residential Road,T-Junction,60,No,Good,Cloudy,1311,No,Bus,2,14,Afternoon,5,5
+INC00208,2024-04-29,21:00,Highway East,Moderate,Industrial Road,T-Junction,50,No,Good,Foggy,1398,No,Van,2,21,Night,0,4
+INC00209,2025-11-15,16:45,Central Junction,Moderate,Urban Road,No Junction,30,Yes,Good,Clear,1050,No,Two-wheeler,1,16,Afternoon,5,11
+INC00210,2025-02-28,19:15,Market Road,Moderate,Highway,Roundabout,50,No,Good,Cloudy,1081,Yes,Car,1,19,Evening,4,2
+INC00211,2025-02-10,08:15,Industrial Area,Serious,Residential Road,Crossroad,60,No,Good,Clear,53,Yes,Bus,1,8,Morning,0,2
+INC00212,2024-12-01,08:30,Central Junction,Minor,Residential Road,Crossroad,40,Yes,Good,Clear,284,Yes,Truck,4,8,Morning,6,12
+INC00213,2024-04-30,19:00,Bus Stand Road,Moderate,Highway,No Junction,40,No,Good,Clear,1089,Yes,Car,2,19,Evening,1,4
+INC00214,2025-06-13,02:30,River Bridge,Minor,Highway,T-Junction,40,No,Poor,Clear,536,No,Bicycle,1,2,Night,4,6
+INC00215,2025-06-25,07:30,Industrial Area,Minor,Urban Road,Crossroad,80,No,Good,Clear,1007,Yes,Car,4,7,Morning,2,6
+INC00216,2025-06-27,09:30,River Bridge,Moderate,Highway,Roundabout,40,No,Poor,Cloudy,1332,Yes,Two-wheeler,1,9,Morning,4,6
+INC00217,2025-09-23,14:15,Bus Stand Road,Moderate,School Zone,No Junction,50,No,Good,Cloudy,165,No,Two-wheeler,1,14,Afternoon,1,9
+INC00218,2024-01-15,21:00,Bus Stand Road,Moderate,Highway,Crossroad,60,Yes,Good,Cloudy,109,No,Van,1,21,Night,0,1
+INC00219,2025-03-29,01:45,College Road,Minor,School Zone,Crossroad,60,Yes,Good,Clear,87,No,Two-wheeler,1,1,Night,5,3
+INC00220,2024-06-02,06:45,Highway East,Minor,Urban Road,Crossroad,40,No,Good,Clear,334,No,Bus,4,6,Morning,6,6
+INC00221,2025-01-13,16:15,Central Junction,Serious,Urban Road,T-Junction,50,No,Moderate,Clear,1232,No,Two-wheeler,4,16,Afternoon,0,1
+INC00222,2025-09-25,12:00,Bus Stand Road,Moderate,School Zone,Roundabout,80,No,Poor,Cloudy,916,No,Van,2,12,Afternoon,3,9
+INC00223,2025-01-16,01:15,Market Road,Moderate,Urban Road,T-Junction,50,No,Moderate,Clear,173,No,Bicycle,2,1,Night,3,1
+INC00224,2025-05-06,00:00,College Road,Moderate,School Zone,Roundabout,30,No,Poor,Clear,1138,No,Bicycle,2,0,Night,1,5
+INC00225,2025-12-31,11:45,Industrial Area,Minor,School Zone,No Junction,50,No,Good,Foggy,51,No,Car,2,11,Morning,2,12
+INC00226,2025-07-31,03:15,Market Road,Minor,Urban Road,Crossroad,50,No,Good,Rainy,1334,No,Van,4,3,Night,3,7
+INC00227,2024-12-16,17:00,Market Road,Moderate,Urban Road,No Junction,60,No,Good,Clear,695,Yes,Bicycle,2,17,Evening,0,12
+INC00228,2025-06-28,11:45,Highway East,Moderate,Highway,T-Junction,50,No,Good,Rainy,1106,No,Two-wheeler,3,11,Morning,5,6
+INC00229,2024-03-16,18:00,Market Road,Moderate,Residential Road,Roundabout,60,Yes,Poor,Foggy,280,Yes,Bus,3,18,Evening,5,3
+INC00230,2025-03-10,05:30,College Road,Minor,Urban Road,T-Junction,60,Yes,Good,Cloudy,740,No,Car,2,5,Morning,0,3
+INC00231,2024-04-12,02:15,Market Road,Serious,Residential Road,Roundabout,40,No,Poor,Rainy,469,No,Two-wheeler,1,2,Night,4,4
+INC00232,2024-08-24,22:45,Industrial Area,Minor,Highway,Crossroad,30,No,Good,Clear,1428,No,Two-wheeler,1,22,Night,5,8
+INC00233,2025-02-22,04:15,Market Road,Moderate,Industrial Road,Roundabout,50,No,Good,Clear,1102,No,Van,1,4,Night,5,2
+INC00234,2024-07-27,08:30,Industrial Area,Moderate,Highway,No Junction,50,No,Good,Cloudy,232,Yes,Two-wheeler,1,8,Morning,5,7
+INC00235,2025-09-18,15:45,Central Junction,Moderate,Highway,No Junction,60,No,Moderate,Cloudy,131,No,Bicycle,4,15,Afternoon,3,9
+INC00236,2025-03-29,02:15,School Zone,Minor,Residential Road,T-Junction,80,No,Moderate,Cloudy,881,No,Truck,4,2,Night,5,3
+INC00237,2024-01-30,22:15,River Bridge,Minor,School Zone,No Junction,30,No,Good,Clear,472,No,Car,1,22,Night,1,1
+INC00238,2025-03-27,02:45,Industrial Area,Moderate,Industrial Road,T-Junction,80,Yes,Moderate,Rainy,536,No,Car,3,2,Night,3,3
+INC00239,2025-12-25,18:15,Market Road,Moderate,Residential Road,Roundabout,40,No,Good,Rainy,1324,Yes,Car,1,18,Evening,3,12
+INC00240,2025-11-02,01:30,Market Road,Serious,Highway,Crossroad,40,No,Good,Clear,763,No,Van,2,1,Night,6,11
+INC00241,2024-03-27,14:45,River Bridge,Minor,School Zone,No Junction,80,No,Good,Rainy,761,No,Van,4,14,Afternoon,2,3
+INC00242,2025-04-02,05:30,Highway East,Minor,Highway,No Junction,30,No,Good,Rainy,548,No,Bus,4,5,Morning,2,4
+INC00243,2024-09-16,20:15,School Zone,Fatal,Highway,Crossroad,50,No,Good,Clear,869,No,Truck,1,20,Evening,0,9
+INC00244,2025-02-18,22:15,Highway East,Moderate,Residential Road,T-Junction,40,No,Good,Cloudy,712,No,Van,1,22,Night,1,2
+INC00245,2024-08-19,07:45,Central Junction,Moderate,School Zone,Roundabout,40,Yes,Good,Clear,594,Yes,Van,4,7,Morning,0,8
+INC00246,2024-01-13,21:30,Central Junction,Moderate,Industrial Road,Roundabout,60,No,Good,Cloudy,1334,No,Truck,4,21,Night,5,1
+INC00247,2024-06-20,09:30,River Bridge,Moderate,Urban Road,T-Junction,60,No,Good,Cloudy,1009,Yes,Two-wheeler,1,9,Morning,3,6
+INC00248,2025-04-27,00:45,Bus Stand Road,Moderate,Residential Road,Crossroad,60,No,Good,Cloudy,503,No,Bicycle,3,0,Night,6,4
+INC00249,2024-12-01,05:45,Highway East,Moderate,Residential Road,No Junction,30,No,Moderate,Clear,121,No,Bicycle,2,5,Morning,6,12
+INC00250,2025-10-04,13:30,School Zone,Moderate,Highway,No Junction,40,No,Moderate,Clear,1052,No,Car,2,13,Afternoon,5,10
+INC00251,2024-06-03,20:30,School Zone,Minor,Highway,T-Junction,30,No,Good,Clear,365,No,Car,3,20,Evening,0,6
+INC00252,2025-04-13,10:15,Industrial Area,Minor,Highway,T-Junction,30,No,Moderate,Clear,102,No,Two-wheeler,2,10,Morning,6,4
+INC00253,2025-10-14,04:30,Market Road,Minor,Highway,T-Junction,50,No,Moderate,Foggy,61,No,Bicycle,4,4,Night,1,10
+INC00254,2025-01-14,05:45,Industrial Area,Serious,Residential Road,Roundabout,80,No,Poor,Clear,835,No,Bicycle,1,5,Morning,1,1
+INC00255,2025-02-27,18:15,Industrial Area,Minor,Highway,Crossroad,30,Yes,Good,Clear,1405,Yes,Van,4,18,Evening,3,2
+INC00256,2024-09-04,17:00,River Bridge,Moderate,School Zone,Roundabout,50,No,Good,Rainy,1201,Yes,Two-wheeler,2,17,Evening,2,9
+INC00257,2024-10-07,01:45,School Zone,Moderate,Industrial Road,Roundabout,80,No,Moderate,Cloudy,128,No,Truck,1,1,Night,0,10
+INC00258,2025-12-27,20:15,Market Road,Serious,Highway,Crossroad,40,Yes,Moderate,Clear,65,No,Bus,4,20,Evening,5,12
+INC00259,2025-11-26,11:00,Market Road,Moderate,Industrial Road,T-Junction,40,No,Moderate,Clear,731,No,Truck,4,11,Morning,2,11
+INC00260,2024-08-02,17:30,Highway East,Minor,School Zone,Roundabout,50,Yes,Moderate,Cloudy,1289,Yes,Truck,2,17,Evening,4,8
+INC00261,2025-11-30,01:15,Market Road,Moderate,School Zone,No Junction,80,No,Good,Clear,1028,No,Bus,4,1,Night,6,11
+INC00262,2025-07-25,15:30,Market Road,Minor,Urban Road,No Junction,40,No,Moderate,Clear,190,No,Truck,3,15,Afternoon,4,7
+INC00263,2024-09-06,10:15,Bus Stand Road,Moderate,School Zone,Roundabout,60,No,Good,Cloudy,1425,No,Bicycle,1,10,Morning,4,9
+INC00264,2024-12-27,02:15,Industrial Area,Minor,School Zone,No Junction,50,Yes,Good,Clear,1248,No,Two-wheeler,1,2,Night,4,12
+INC00265,2025-05-18,04:00,Central Junction,Minor,Urban Road,No Junction,60,No,Good,Clear,896,No,Van,1,4,Night,6,5
+INC00266,2025-02-18,07:45,School Zone,Serious,Industrial Road,Roundabout,60,Yes,Moderate,Cloudy,736,Yes,Bus,1,7,Morning,1,2
+INC00267,2024-09-28,02:15,College Road,Moderate,Highway,T-Junction,80,Yes,Good,Rainy,120,No,Bus,4,2,Night,5,9
+INC00268,2024-01-19,05:45,Market Road,Moderate,School Zone,Roundabout,50,Yes,Moderate,Clear,91,No,Two-wheeler,2,5,Morning,4,1
+INC00269,2024-01-25,20:30,Bus Stand Road,Minor,School Zone,T-Junction,50,Yes,Good,Rainy,1155,No,Bus,1,20,Evening,3,1
+INC00270,2025-08-11,20:30,College Road,Minor,Highway,Roundabout,60,No,Moderate,Clear,938,No,Truck,1,20,Evening,0,8
+INC00271,2024-07-15,14:30,Market Road,Moderate,Industrial Road,Roundabout,60,No,Poor,Clear,792,No,Car,3,14,Afternoon,0,7
+INC00272,2024-11-23,11:45,College Road,Minor,Industrial Road,No Junction,50,No,Moderate,Clear,243,No,Bus,2,11,Morning,5,11
+INC00273,2025-02-23,20:45,Bus Stand Road,Minor,Industrial Road,Roundabout,30,No,Moderate,Clear,394,No,Bus,2,20,Evening,6,2
+INC00274,2025-11-16,16:00,College Road,Serious,Urban Road,Roundabout,50,No,Poor,Cloudy,978,No,Bus,2,16,Afternoon,6,11
+INC00275,2024-06-05,13:30,Highway East,Minor,Residential Road,Crossroad,40,No,Poor,Rainy,311,No,Two-wheeler,3,13,Afternoon,2,6
+INC00276,2025-11-30,20:00,College Road,Moderate,Urban Road,Roundabout,60,No,Moderate,Cloudy,394,No,Truck,2,20,Evening,6,11
+INC00277,2025-08-11,07:30,River Bridge,Minor,Highway,T-Junction,50,No,Good,Clear,1092,Yes,Two-wheeler,1,7,Morning,0,8
+INC00278,2025-10-21,01:00,Market Road,Minor,Highway,Crossroad,50,Yes,Good,Rainy,599,No,Two-wheeler,2,1,Night,1,10
+INC00279,2025-12-21,04:45,Central Junction,Moderate,School Zone,T-Junction,30,No,Good,Clear,1198,No,Bus,1,4,Night,6,12
+INC00280,2025-05-16,18:00,Industrial Area,Serious,Urban Road,T-Junction,60,No,Good,Rainy,561,Yes,Bus,1,18,Evening,4,5
+INC00281,2024-09-24,17:00,River Bridge,Minor,Residential Road,Roundabout,50,No,Good,Cloudy,1445,Yes,Two-wheeler,2,17,Evening,1,9
+INC00282,2024-05-09,14:15,College Road,Serious,Industrial Road,Crossroad,40,No,Good,Clear,1235,No,Bicycle,2,14,Afternoon,3,5
+INC00283,2025-04-07,20:00,River Bridge,Serious,Industrial Road,No Junction,60,No,Good,Clear,1313,No,Two-wheeler,4,20,Evening,0,4
+INC00284,2024-05-25,12:00,Central Junction,Fatal,School Zone,T-Junction,40,No,Good,Clear,344,No,Bicycle,1,12,Afternoon,5,5
+INC00285,2024-04-15,07:00,Central Junction,Minor,Residential Road,Crossroad,80,No,Good,Rainy,841,Yes,Car,2,7,Morning,0,4
+INC00286,2024-10-02,19:45,College Road,Minor,Residential Road,No Junction,50,No,Good,Rainy,294,Yes,Car,1,19,Evening,2,10
+INC00287,2025-09-18,05:00,Bus Stand Road,Moderate,Residential Road,No Junction,50,No,Good,Foggy,650,No,Car,4,5,Morning,3,9
+INC00288,2024-05-08,07:30,Highway East,Moderate,Urban Road,Roundabout,60,No,Good,Cloudy,730,Yes,Bus,1,7,Morning,2,5
+INC00289,2025-08-15,13:15,Market Road,Minor,Residential Road,No Junction,30,No,Good,Cloudy,1109,No,Truck,2,13,Afternoon,4,8
+INC00290,2025-11-23,05:15,Central Junction,Moderate,School Zone,Crossroad,40,No,Moderate,Cloudy,863,No,Bus,3,5,Morning,6,11
+INC00291,2024-03-26,00:15,Industrial Area,Fatal,School Zone,T-Junction,60,No,Good,Rainy,1160,No,Bicycle,2,0,Night,1,3
+INC00292,2024-11-19,06:45,Central Junction,Serious,Highway,Crossroad,40,No,Good,Clear,531,No,Bicycle,2,6,Morning,1,11
+INC00293,2025-06-14,18:00,Industrial Area,Serious,Highway,T-Junction,40,No,Good,Cloudy,1126,Yes,Car,3,18,Evening,5,6
+INC00294,2025-05-31,06:00,College Road,Minor,Urban Road,No Junction,80,No,Good,Rainy,1207,No,Bicycle,4,6,Morning,5,5
+INC00295,2025-04-05,13:15,Central Junction,Moderate,Industrial Road,No Junction,50,No,Moderate,Foggy,282,No,Car,3,13,Afternoon,5,4
+INC00296,2024-04-28,17:15,Central Junction,Minor,Residential Road,Roundabout,50,Yes,Poor,Clear,1200,Yes,Bicycle,4,17,Evening,6,4
+INC00297,2025-09-21,23:45,River Bridge,Moderate,School Zone,No Junction,80,No,Good,Foggy,1153,No,Two-wheeler,2,23,Night,6,9
+INC00298,2025-02-23,16:30,Market Road,Minor,School Zone,No Junction,30,No,Good,Clear,1203,No,Truck,4,16,Afternoon,6,2
+INC00299,2025-03-11,22:45,Market Road,Minor,School Zone,No Junction,50,No,Moderate,Rainy,1183,No,Bicycle,3,22,Night,1,3
+INC00300,2024-03-10,02:30,Market Road,Moderate,Industrial Road,T-Junction,60,Yes,Good,Clear,818,No,Two-wheeler,1,2,Night,6,3
+INC00301,2024-04-05,07:15,Central Junction,Minor,Industrial Road,Roundabout,40,No,Good,Rainy,1171,Yes,Bicycle,3,7,Morning,4,4
+INC00302,2024-07-04,06:30,School Zone,Moderate,Industrial Road,T-Junction,60,Yes,Moderate,Foggy,899,No,Bicycle,4,6,Morning,3,7
+INC00303,2025-07-26,20:45,Industrial Area,Serious,Urban Road,Crossroad,50,No,Good,Foggy,287,No,Van,4,20,Evening,5,7
+INC00304,2025-08-19,23:15,Central Junction,Minor,School Zone,Roundabout,50,No,Good,Cloudy,352,No,Bicycle,1,23,Night,1,8
+INC00305,2025-01-20,17:15,College Road,Moderate,Industrial Road,No Junction,60,Yes,Good,Clear,974,Yes,Car,4,17,Evening,0,1
+INC00306,2024-11-11,11:00,River Bridge,Serious,School Zone,No Junction,60,Yes,Good,Rainy,570,No,Bus,1,11,Morning,0,11
+INC00307,2025-09-23,08:45,Central Junction,Moderate,Highway,T-Junction,80,No,Good,Foggy,1378,Yes,Bus,2,8,Morning,1,9
+INC00308,2025-08-15,09:45,Market Road,Serious,Urban Road,T-Junction,80,No,Good,Clear,578,Yes,Truck,2,9,Morning,4,8
+INC00309,2024-12-04,14:15,Central Junction,Minor,School Zone,T-Junction,40,No,Good,Clear,180,No,Car,3,14,Afternoon,2,12
+INC00310,2025-01-14,09:45,Bus Stand Road,Moderate,School Zone,T-Junction,30,No,Good,Clear,82,Yes,Bus,3,9,Morning,1,1
+INC00311,2025-10-21,04:15,Market Road,Moderate,Urban Road,Roundabout,40,No,Good,Clear,56,No,Bus,1,4,Night,1,10
+INC00312,2024-12-30,23:15,Highway East,Moderate,Urban Road,No Junction,30,No,Good,Cloudy,1356,No,Two-wheeler,4,23,Night,0,12
+INC00313,2024-09-25,09:15,Central Junction,Moderate,Urban Road,T-Junction,80,No,Good,Cloudy,1310,Yes,Car,1,9,Morning,2,9
+INC00314,2024-11-28,03:45,Highway East,Moderate,School Zone,T-Junction,60,No,Moderate,Clear,1159,No,Truck,4,3,Night,3,11
+INC00315,2024-04-04,17:45,Highway East,Fatal,Highway,Roundabout,40,No,Moderate,Cloudy,266,Yes,Truck,1,17,Evening,3,4
+INC00316,2024-09-30,20:00,Central Junction,Moderate,School Zone,Crossroad,40,No,Good,Clear,54,No,Truck,2,20,Evening,0,9
+INC00317,2024-09-28,01:15,Central Junction,Minor,Urban Road,T-Junction,50,No,Good,Cloudy,1262,No,Bicycle,1,1,Night,5,9
+INC00318,2025-01-29,06:45,River Bridge,Moderate,Residential Road,T-Junction,80,No,Good,Clear,1102,No,Two-wheeler,2,6,Morning,2,1
+INC00319,2024-08-19,04:45,Central Junction,Serious,Industrial Road,T-Junction,60,No,Good,Cloudy,847,No,Bicycle,4,4,Night,0,8
+INC00320,2024-07-28,21:45,River Bridge,Minor,Urban Road,T-Junction,80,No,Good,Cloudy,680,No,Truck,4,21,Night,6,7
+INC00321,2024-11-26,20:15,Market Road,Minor,Urban Road,No Junction,60,No,Good,Clear,1005,No,Car,4,20,Evening,1,11
+INC00322,2025-09-06,08:30,Market Road,Serious,Highway,Roundabout,60,Yes,Good,Rainy,736,Yes,Van,1,8,Morning,5,9
+INC00323,2025-11-25,19:00,Industrial Area,Serious,School Zone,T-Junction,50,No,Good,Clear,54,Yes,Car,1,19,Evening,1,11
+INC00324,2024-06-24,10:30,Highway East,Minor,Urban Road,Crossroad,50,No,Moderate,Clear,410,No,Car,1,10,Morning,0,6
+INC00325,2025-04-09,03:00,Central Junction,Minor,Residential Road,Roundabout,60,No,Good,Cloudy,554,No,Truck,3,3,Night,2,4
+INC00326,2025-06-16,14:30,Central Junction,Minor,Highway,No Junction,60,Yes,Good,Clear,1139,No,Bus,2,14,Afternoon,0,6
+INC00327,2025-02-28,14:45,School Zone,Moderate,School Zone,No Junction,50,No,Moderate,Clear,1461,No,Van,3,14,Afternoon,4,2
+INC00328,2024-09-29,11:45,Market Road,Minor,Highway,Roundabout,50,No,Moderate,Clear,860,No,Bicycle,1,11,Morning,6,9
+INC00329,2025-05-21,06:15,Industrial Area,Moderate,School Zone,Roundabout,50,No,Good,Clear,307,No,Two-wheeler,1,6,Morning,2,5
+INC00330,2025-02-01,05:45,Central Junction,Minor,School Zone,No Junction,80,No,Poor,Rainy,831,No,Car,1,5,Morning,5,2
+INC00331,2024-05-06,00:00,Bus Stand Road,Minor,School Zone,Crossroad,50,No,Good,Cloudy,846,No,Bus,4,0,Night,0,5
+INC00332,2024-04-18,16:15,Central Junction,Moderate,Residential Road,No Junction,30,Yes,Good,Cloudy,314,No,Van,2,16,Afternoon,3,4
+INC00333,2024-09-08,18:15,Industrial Area,Minor,Industrial Road,No Junction,40,No,Good,Clear,1252,Yes,Bus,3,18,Evening,6,9
+INC00334,2025-11-08,15:00,Central Junction,Fatal,Residential Road,Roundabout,40,No,Good,Rainy,743,No,Car,2,15,Afternoon,5,11
+INC00335,2025-08-02,02:45,Bus Stand Road,Minor,Urban Road,No Junction,50,No,Good,Cloudy,989,No,Two-wheeler,2,2,Night,5,8
+INC00336,2024-08-31,00:15,Central Junction,Minor,Urban Road,Roundabout,60,No,Good,Clear,435,No,Two-wheeler,3,0,Night,5,8
+INC00337,2025-05-28,13:15,College Road,Moderate,Highway,Crossroad,30,Yes,Good,Clear,223,No,Bus,4,13,Afternoon,2,5
+INC00338,2025-12-03,20:15,Central Junction,Minor,School Zone,No Junction,40,No,Good,Clear,167,No,Bicycle,2,20,Evening,2,12
+INC00339,2025-03-14,09:45,College Road,Moderate,Residential Road,No Junction,60,No,Good,Rainy,1035,Yes,Two-wheeler,4,9,Morning,4,3
+INC00340,2024-04-30,03:15,Industrial Area,Moderate,School Zone,T-Junction,60,No,Poor,Clear,358,No,Van,4,3,Night,1,4
+INC00341,2024-04-16,00:45,School Zone,Minor,Residential Road,Roundabout,80,No,Good,Clear,161,No,Truck,4,0,Night,1,4
+INC00342,2024-08-24,08:45,Central Junction,Serious,Highway,Roundabout,60,No,Moderate,Clear,430,Yes,Van,1,8,Morning,5,8
+INC00343,2024-01-15,06:00,Industrial Area,Moderate,Residential Road,Roundabout,50,No,Good,Rainy,373,No,Bicycle,4,6,Morning,0,1
+INC00344,2025-04-03,14:45,River Bridge,Moderate,Industrial Road,T-Junction,50,No,Moderate,Rainy,302,No,Bicycle,2,14,Afternoon,3,4
+INC00345,2025-12-25,20:30,Industrial Area,Serious,Urban Road,Roundabout,40,No,Good,Cloudy,1458,No,Bicycle,3,20,Evening,3,12
+INC00346,2025-02-11,16:45,Central Junction,Serious,Industrial Road,No Junction,30,No,Good,Cloudy,1240,No,Truck,1,16,Afternoon,1,2
+INC00347,2025-10-22,08:00,Market Road,Serious,Residential Road,Crossroad,40,No,Good,Cloudy,1493,Yes,Bicycle,3,8,Morning,2,10
+INC00348,2025-09-18,11:15,Bus Stand Road,Minor,Highway,Roundabout,80,No,Good,Rainy,1455,No,Car,3,11,Morning,3,9
+INC00349,2025-04-05,10:45,College Road,Minor,Urban Road,Roundabout,60,No,Good,Clear,837,No,Two-wheeler,2,10,Morning,5,4
+INC00350,2024-02-19,19:15,Industrial Area,Minor,Highway,T-Junction,50,No,Good,Clear,1304,Yes,Bus,1,19,Evening,0,2
+INC00351,2024-03-22,08:00,Central Junction,Serious,Urban Road,Crossroad,80,No,Moderate,Clear,1239,Yes,Two-wheeler,4,8,Morning,4,3
+INC00352,2024-11-17,16:45,Bus Stand Road,Minor,Urban Road,Roundabout,50,No,Good,Cloudy,1049,No,Van,2,16,Afternoon,6,11
+INC00353,2024-06-13,15:00,Market Road,Minor,School Zone,Crossroad,80,Yes,Moderate,Rainy,1313,No,Car,3,15,Afternoon,3,6
+INC00354,2025-02-02,06:00,Highway East,Fatal,Industrial Road,No Junction,80,No,Poor,Foggy,1427,No,Van,3,6,Morning,6,2
+INC00355,2025-03-09,01:30,School Zone,Moderate,Urban Road,T-Junction,40,No,Good,Rainy,461,No,Truck,4,1,Night,6,3
+INC00356,2025-01-22,22:15,Market Road,Minor,Residential Road,T-Junction,50,No,Good,Clear,1157,No,Truck,1,22,Night,2,1
+INC00357,2025-03-31,08:30,Central Junction,Moderate,Highway,Roundabout,50,No,Good,Clear,570,Yes,Car,2,8,Morning,0,3
+INC00358,2025-02-12,00:45,Central Junction,Moderate,School Zone,T-Junction,30,No,Moderate,Clear,834,No,Two-wheeler,2,0,Night,2,2
+INC00359,2024-01-28,06:15,College Road,Moderate,School Zone,Crossroad,40,No,Good,Clear,1344,No,Bicycle,3,6,Morning,6,1
+INC00360,2024-10-17,18:15,College Road,Serious,School Zone,No Junction,30,Yes,Good,Clear,654,Yes,Car,1,18,Evening,3,10
+INC00361,2025-12-06,20:30,Industrial Area,Moderate,School Zone,Roundabout,30,No,Good,Cloudy,899,No,Two-wheeler,1,20,Evening,5,12
+INC00362,2025-12-22,17:30,Market Road,Serious,Highway,No Junction,50,No,Good,Foggy,826,Yes,Bicycle,4,17,Evening,0,12
+INC00363,2024-08-20,17:15,Central Junction,Fatal,Residential Road,T-Junction,40,No,Good,Clear,1234,Yes,Car,1,17,Evening,1,8
+INC00364,2024-05-20,17:15,Highway East,Minor,Industrial Road,No Junction,60,No,Good,Clear,68,Yes,Car,4,17,Evening,0,5
+INC00365,2025-06-02,17:15,College Road,Moderate,Residential Road,Roundabout,80,No,Good,Rainy,1009,Yes,Two-wheeler,2,17,Evening,0,6
+INC00366,2024-08-18,11:00,College Road,Moderate,Highway,Crossroad,80,Yes,Good,Rainy,1457,No,Car,3,11,Morning,6,8
+INC00367,2025-10-05,09:00,River Bridge,Minor,Residential Road,No Junction,60,Yes,Poor,Clear,879,Yes,Two-wheeler,1,9,Morning,6,10
+INC00368,2024-11-25,03:45,Industrial Area,Minor,Urban Road,Roundabout,50,No,Poor,Cloudy,1383,No,Truck,3,3,Night,0,11
+INC00369,2024-06-03,15:00,Highway East,Serious,School Zone,Roundabout,60,No,Good,Rainy,677,No,Van,4,15,Afternoon,0,6
+INC00370,2025-12-03,21:30,Highway East,Serious,Urban Road,Roundabout,80,No,Moderate,Rainy,794,No,Van,3,21,Night,2,12
+INC00371,2024-03-12,22:30,Market Road,Moderate,Highway,Roundabout,30,Yes,Moderate,Foggy,1117,No,Two-wheeler,3,22,Night,1,3
+INC00372,2024-07-01,16:45,School Zone,Moderate,School Zone,Crossroad,50,Yes,Good,Rainy,550,No,Van,3,16,Afternoon,0,7
+INC00373,2024-10-10,17:00,Industrial Area,Moderate,Residential Road,No Junction,60,No,Moderate,Foggy,845,Yes,Van,3,17,Evening,3,10
+INC00374,2024-06-16,15:15,Central Junction,Serious,Urban Road,Roundabout,60,No,Good,Rainy,945,No,Truck,4,15,Afternoon,6,6
+INC00375,2025-08-15,22:30,Bus Stand Road,Minor,Residential Road,Roundabout,50,No,Moderate,Clear,186,No,Bus,4,22,Night,4,8
+INC00376,2025-01-25,11:45,Highway East,Minor,Urban Road,Crossroad,60,No,Good,Clear,1202,No,Bicycle,1,11,Morning,5,1
+INC00377,2025-03-16,06:15,School Zone,Serious,Urban Road,Crossroad,50,No,Poor,Clear,1425,No,Car,1,6,Morning,6,3
+INC00378,2025-01-22,09:15,Industrial Area,Fatal,Urban Road,Roundabout,50,No,Good,Rainy,1115,Yes,Truck,1,9,Morning,2,1
+INC00379,2024-08-25,07:45,Industrial Area,Minor,School Zone,T-Junction,30,Yes,Good,Rainy,1273,Yes,Two-wheeler,1,7,Morning,6,8
+INC00380,2024-12-16,16:00,Bus Stand Road,Minor,Highway,No Junction,40,Yes,Good,Cloudy,751,No,Car,4,16,Afternoon,0,12
+INC00381,2024-09-26,16:45,Bus Stand Road,Moderate,Residential Road,Crossroad,80,Yes,Good,Foggy,852,No,Truck,2,16,Afternoon,3,9
+INC00382,2025-01-19,00:15,School Zone,Moderate,Industrial Road,No Junction,60,Yes,Good,Cloudy,796,No,Car,4,0,Night,6,1
+INC00383,2024-12-07,12:00,Central Junction,Minor,Industrial Road,No Junction,80,Yes,Good,Rainy,205,No,Two-wheeler,2,12,Afternoon,5,12
+INC00384,2025-07-29,04:30,College Road,Minor,Industrial Road,Roundabout,40,No,Poor,Clear,1234,No,Bicycle,1,4,Night,1,7
+INC00385,2024-04-25,15:45,Highway East,Fatal,Highway,T-Junction,30,No,Poor,Rainy,798,No,Bicycle,4,15,Afternoon,3,4
+INC00386,2025-07-31,15:45,Highway East,Minor,Urban Road,Crossroad,40,Yes,Moderate,Rainy,139,No,Two-wheeler,3,15,Afternoon,3,7
+INC00387,2024-11-12,15:45,Industrial Area,Minor,Highway,Crossroad,30,No,Good,Clear,1275,No,Bus,2,15,Afternoon,1,11
+INC00388,2025-10-02,15:45,School Zone,Moderate,Urban Road,T-Junction,80,No,Moderate,Clear,653,No,Bicycle,1,15,Afternoon,3,10
+INC00389,2024-11-29,17:30,Market Road,Moderate,Urban Road,T-Junction,50,No,Good,Cloudy,1318,Yes,Bus,4,17,Evening,4,11
+INC00390,2024-09-27,17:15,Industrial Area,Minor,School Zone,No Junction,60,Yes,Good,Clear,359,Yes,Van,2,17,Evening,4,9
+INC00391,2025-07-30,06:45,River Bridge,Minor,Highway,T-Junction,60,No,Moderate,Cloudy,490,No,Two-wheeler,4,6,Morning,2,7
+INC00392,2025-05-07,18:30,Central Junction,Minor,Urban Road,T-Junction,50,No,Good,Clear,1184,Yes,Two-wheeler,1,18,Evening,2,5
+INC00393,2024-07-11,14:15,River Bridge,Minor,Industrial Road,T-Junction,80,Yes,Good,Cloudy,1343,No,Truck,4,14,Afternoon,3,7
+INC00394,2025-03-27,13:15,Bus Stand Road,Minor,Industrial Road,No Junction,50,No,Moderate,Clear,87,No,Bus,3,13,Afternoon,3,3
+INC00395,2025-06-23,12:30,School Zone,Minor,School Zone,No Junction,80,No,Good,Clear,824,No,Bus,4,12,Afternoon,0,6
+INC00396,2024-06-07,00:45,Bus Stand Road,Minor,Residential Road,Roundabout,30,No,Moderate,Clear,1412,No,Truck,1,0,Night,4,6
+INC00397,2025-11-15,06:30,College Road,Minor,Industrial Road,No Junction,60,No,Good,Foggy,897,No,Bus,4,6,Morning,5,11
+INC00398,2025-01-02,23:15,School Zone,Minor,Industrial Road,T-Junction,80,No,Good,Rainy,505,No,Bicycle,3,23,Night,3,1
+INC00399,2024-08-16,03:00,Highway East,Moderate,School Zone,T-Junction,50,No,Good,Clear,1103,No,Bus,1,3,Night,4,8
+INC00400,2024-11-09,16:00,School Zone,Moderate,Urban Road,T-Junction,60,No,Good,Cloudy,620,No,Bicycle,1,16,Afternoon,5,11
+INC00401,2024-12-18,07:00,Market Road,Moderate,School Zone,Crossroad,50,No,Good,Clear,1159,Yes,Bus,3,7,Morning,2,12
+INC00402,2025-12-12,01:45,River Bridge,Moderate,Urban Road,No Junction,50,No,Good,Rainy,69,No,Truck,2,1,Night,4,12
+INC00403,2025-08-04,13:30,Bus Stand Road,Serious,Residential Road,Roundabout,80,No,Good,Rainy,223,No,Car,2,13,Afternoon,0,8
+INC00404,2025-03-07,22:30,Highway East,Moderate,Industrial Road,Crossroad,60,No,Good,Cloudy,1210,No,Truck,3,22,Night,4,3
+INC00405,2025-12-21,10:45,Industrial Area,Minor,School Zone,T-Junction,50,No,Good,Cloudy,158,No,Car,2,10,Morning,6,12
+INC00406,2025-08-18,21:45,Highway East,Moderate,Highway,No Junction,80,No,Moderate,Rainy,429,No,Bicycle,4,21,Night,0,8
+INC00407,2025-04-25,19:30,School Zone,Minor,Industrial Road,T-Junction,50,No,Good,Clear,146,Yes,Bus,2,19,Evening,4,4
+INC00408,2024-12-01,04:00,Market Road,Moderate,Urban Road,No Junction,40,No,Poor,Rainy,853,No,Two-wheeler,1,4,Night,6,12
+INC00409,2025-03-20,18:30,Central Junction,Serious,Highway,Crossroad,60,No,Good,Clear,483,Yes,Bicycle,1,18,Evening,3,3
+INC00410,2025-09-03,03:30,Central Junction,Fatal,Residential Road,T-Junction,60,No,Good,Clear,411,No,Bus,3,3,Night,2,9
+INC00411,2025-08-23,14:30,Highway East,Serious,Residential Road,T-Junction,60,Yes,Good,Clear,1495,No,Van,2,14,Afternoon,5,8
+INC00412,2025-10-26,18:45,Market Road,Serious,Highway,T-Junction,60,Yes,Poor,Rainy,1244,Yes,Bicycle,2,18,Evening,6,10
+INC00413,2024-12-25,07:30,Bus Stand Road,Minor,Industrial Road,T-Junction,30,No,Good,Rainy,1199,Yes,Bicycle,4,7,Morning,2,12
+INC00414,2024-04-22,06:30,Highway East,Serious,School Zone,Crossroad,40,No,Good,Clear,590,No,Bus,3,6,Morning,0,4
+INC00415,2024-03-04,03:30,Bus Stand Road,Minor,Urban Road,Roundabout,40,No,Good,Clear,805,No,Bus,2,3,Night,0,3
+INC00416,2025-03-18,02:00,Highway East,Minor,Highway,Roundabout,60,No,Good,Clear,551,No,Van,4,2,Night,1,3
+INC00417,2025-12-13,12:00,Bus Stand Road,Minor,Urban Road,No Junction,50,Yes,Good,Foggy,1464,No,Two-wheeler,3,12,Afternoon,5,12
+INC00418,2025-04-07,17:15,Central Junction,Moderate,Residential Road,Crossroad,50,Yes,Moderate,Clear,498,Yes,Van,2,17,Evening,0,4
+INC00419,2024-12-08,11:15,Highway East,Moderate,Residential Road,No Junction,60,Yes,Good,Clear,489,No,Car,1,11,Morning,6,12
+INC00420,2025-01-24,22:00,Central Junction,Minor,Urban Road,Crossroad,80,Yes,Poor,Clear,699,No,Truck,2,22,Night,4,1
+INC00421,2025-07-25,23:30,School Zone,Minor,Industrial Road,T-Junction,80,No,Moderate,Clear,351,No,Bicycle,2,23,Night,4,7
+INC00422,2025-09-15,01:30,Central Junction,Minor,School Zone,No Junction,50,No,Good,Clear,1141,No,Car,4,1,Night,0,9
+INC00423,2024-07-19,03:45,Market Road,Moderate,Residential Road,Crossroad,30,No,Poor,Clear,937,No,Bus,4,3,Night,4,7
+INC00424,2024-11-05,02:00,School Zone,Moderate,School Zone,Crossroad,60,No,Moderate,Rainy,1106,No,Bicycle,4,2,Night,1,11
+INC00425,2024-02-14,21:00,Industrial Area,Moderate,Highway,Crossroad,60,No,Moderate,Cloudy,1360,No,Bus,2,21,Night,2,2
+INC00426,2025-09-27,22:45,Bus Stand Road,Moderate,Urban Road,No Junction,30,Yes,Moderate,Clear,1154,No,Bicycle,2,22,Night,5,9
+INC00427,2024-03-09,03:45,Central Junction,Moderate,Residential Road,No Junction,30,No,Good,Clear,1263,No,Two-wheeler,3,3,Night,5,3
+INC00428,2025-08-12,19:00,Highway East,Serious,Urban Road,Crossroad,30,No,Good,Clear,1299,Yes,Bicycle,1,19,Evening,1,8
+INC00429,2024-07-29,10:15,Bus Stand Road,Moderate,Highway,T-Junction,60,No,Good,Cloudy,219,No,Car,4,10,Morning,0,7
+INC00430,2025-05-08,03:45,River Bridge,Serious,School Zone,Roundabout,50,No,Good,Cloudy,683,No,Car,3,3,Night,3,5
+INC00431,2024-03-13,21:15,River Bridge,Serious,Residential Road,Roundabout,50,No,Moderate,Clear,1168,No,Two-wheeler,4,21,Night,2,3
+INC00432,2024-05-24,06:45,Bus Stand Road,Serious,School Zone,Crossroad,50,Yes,Poor,Clear,1432,No,Van,2,6,Morning,4,5
+INC00433,2024-10-12,01:45,Central Junction,Minor,School Zone,Roundabout,50,No,Moderate,Clear,587,No,Bicycle,2,1,Night,5,10
+INC00434,2024-08-29,17:15,College Road,Minor,Industrial Road,Roundabout,50,No,Moderate,Clear,407,Yes,Van,3,17,Evening,3,8
+INC00435,2025-08-14,17:30,Central Junction,Minor,School Zone,Crossroad,50,Yes,Poor,Rainy,1024,Yes,Van,1,17,Evening,3,8
+INC00436,2024-09-16,10:30,Central Junction,Fatal,Urban Road,Crossroad,80,No,Good,Clear,369,No,Car,1,10,Morning,0,9
+INC00437,2024-01-15,09:45,Market Road,Serious,Residential Road,Crossroad,40,No,Good,Clear,277,Yes,Truck,2,9,Morning,0,1
+INC00438,2025-11-26,07:00,Highway East,Serious,Highway,Crossroad,40,No,Moderate,Clear,1404,Yes,Bus,1,7,Morning,2,11
+INC00439,2025-10-28,20:00,Highway East,Moderate,School Zone,T-Junction,80,No,Good,Clear,755,No,Bicycle,4,20,Evening,1,10
+INC00440,2025-10-03,00:15,School Zone,Moderate,Industrial Road,No Junction,60,Yes,Moderate,Foggy,1326,No,Car,4,0,Night,4,10
+INC00441,2025-01-12,01:00,River Bridge,Serious,Urban Road,T-Junction,60,No,Good,Rainy,1387,No,Bicycle,1,1,Night,6,1
+INC00442,2024-01-07,16:15,Market Road,Serious,Urban Road,T-Junction,40,No,Good,Clear,233,No,Two-wheeler,3,16,Afternoon,6,1
+INC00443,2025-01-24,21:30,Industrial Area,Moderate,Urban Road,T-Junction,80,No,Good,Rainy,982,No,Car,2,21,Night,4,1
+INC00444,2025-11-23,01:45,River Bridge,Minor,Residential Road,No Junction,40,Yes,Good,Rainy,1117,No,Truck,3,1,Night,6,11
+INC00445,2024-04-23,09:45,Industrial Area,Fatal,School Zone,T-Junction,50,No,Good,Rainy,852,Yes,Car,2,9,Morning,1,4
+INC00446,2025-04-01,04:30,College Road,Minor,Industrial Road,No Junction,50,No,Good,Rainy,841,No,Two-wheeler,2,4,Night,1,4
+INC00447,2024-07-25,04:45,Bus Stand Road,Minor,Residential Road,Crossroad,50,Yes,Good,Clear,1277,No,Van,4,4,Night,3,7
+INC00448,2025-11-10,00:30,Industrial Area,Minor,Residential Road,Roundabout,60,No,Poor,Cloudy,649,No,Van,3,0,Night,0,11
+INC00449,2024-07-19,16:30,School Zone,Minor,Industrial Road,No Junction,50,No,Good,Clear,780,No,Two-wheeler,4,16,Afternoon,4,7
+INC00450,2024-09-11,01:30,Highway East,Minor,Residential Road,Crossroad,40,No,Good,Rainy,133,No,Bus,4,1,Night,2,9
+INC00451,2024-08-09,11:00,Bus Stand Road,Serious,Highway,T-Junction,80,No,Good,Clear,493,No,Bicycle,3,11,Morning,4,8
+INC00452,2024-05-22,04:00,School Zone,Minor,Industrial Road,T-Junction,80,No,Good,Foggy,710,No,Bicycle,1,4,Night,2,5
+INC00453,2025-09-23,09:45,Market Road,Minor,Industrial Road,Roundabout,40,Yes,Poor,Rainy,643,Yes,Truck,4,9,Morning,1,9
+INC00454,2025-01-12,22:45,Central Junction,Minor,Residential Road,No Junction,50,No,Moderate,Clear,1060,No,Bicycle,2,22,Night,6,1
+INC00455,2024-07-03,05:30,Market Road,Moderate,Residential Road,No Junction,50,No,Moderate,Cloudy,519,No,Van,3,5,Morning,2,7
+INC00456,2025-10-10,09:00,Industrial Area,Minor,School Zone,Roundabout,40,No,Moderate,Clear,1363,Yes,Van,3,9,Morning,4,10
+INC00457,2024-11-27,15:45,Bus Stand Road,Serious,School Zone,Roundabout,60,No,Moderate,Clear,358,No,Van,3,15,Afternoon,2,11
+INC00458,2024-12-23,14:15,River Bridge,Serious,School Zone,T-Junction,60,No,Good,Rainy,1094,No,Bus,4,14,Afternoon,0,12
+INC00459,2024-02-16,00:30,Central Junction,Minor,School Zone,Roundabout,80,No,Moderate,Cloudy,1270,No,Two-wheeler,3,0,Night,4,2
+INC00460,2025-01-26,01:45,Central Junction,Moderate,Residential Road,No Junction,80,No,Good,Rainy,1158,No,Bicycle,3,1,Night,6,1
+INC00461,2025-04-24,15:30,College Road,Moderate,School Zone,No Junction,60,No,Good,Rainy,993,No,Two-wheeler,3,15,Afternoon,3,4
+INC00462,2024-02-15,00:45,Central Junction,Moderate,Highway,No Junction,50,Yes,Poor,Clear,1217,No,Bicycle,4,0,Night,3,2
+INC00463,2025-05-30,06:30,Market Road,Moderate,Highway,Roundabout,60,No,Good,Rainy,620,No,Car,4,6,Morning,4,5
+INC00464,2024-09-23,05:45,Market Road,Serious,Industrial Road,Crossroad,80,Yes,Good,Clear,1088,No,Bicycle,2,5,Morning,0,9
+INC00465,2024-07-27,04:15,Bus Stand Road,Serious,Urban Road,T-Junction,80,No,Good,Clear,1421,No,Car,3,4,Night,5,7
+INC00466,2025-03-31,05:00,Highway East,Serious,School Zone,Roundabout,60,No,Moderate,Cloudy,1007,No,Truck,1,5,Morning,0,3
+INC00467,2025-10-03,15:15,Market Road,Fatal,Residential Road,T-Junction,50,No,Good,Clear,396,No,Two-wheeler,3,15,Afternoon,4,10
+INC00468,2024-12-05,00:15,River Bridge,Serious,Urban Road,Crossroad,50,No,Good,Clear,380,No,Truck,2,0,Night,3,12
+INC00469,2024-06-28,11:45,Bus Stand Road,Moderate,Highway,No Junction,40,No,Good,Clear,371,No,Van,3,11,Morning,4,6
+INC00470,2025-02-11,13:30,Market Road,Minor,Industrial Road,No Junction,50,No,Good,Rainy,746,No,Car,3,13,Afternoon,1,2
+INC00471,2025-07-24,12:00,Bus Stand Road,Minor,School Zone,No Junction,60,No,Good,Rainy,429,No,Van,4,12,Afternoon,3,7
+INC00472,2025-08-05,07:30,Central Junction,Minor,School Zone,Crossroad,80,No,Moderate,Cloudy,524,Yes,Car,4,7,Morning,1,8
+INC00473,2025-12-25,14:30,School Zone,Minor,Urban Road,Crossroad,60,Yes,Good,Clear,199,No,Car,2,14,Afternoon,3,12
+INC00474,2025-08-23,15:45,Market Road,Minor,Industrial Road,Roundabout,60,No,Good,Clear,330,No,Bus,3,15,Afternoon,5,8
+INC00475,2025-08-29,14:45,Market Road,Moderate,Urban Road,Roundabout,50,No,Good,Foggy,742,No,Bicycle,1,14,Afternoon,4,8
+INC00476,2024-03-29,16:00,School Zone,Minor,Residential Road,Crossroad,60,No,Moderate,Rainy,286,No,Car,4,16,Afternoon,4,3
+INC00477,2024-05-20,01:45,College Road,Minor,Urban Road,Roundabout,60,No,Moderate,Foggy,672,No,Car,1,1,Night,0,5
+INC00478,2024-08-10,03:15,College Road,Minor,Urban Road,Roundabout,80,No,Good,Clear,386,No,Car,3,3,Night,5,8
+INC00479,2025-03-08,03:45,Highway East,Fatal,Industrial Road,T-Junction,50,No,Moderate,Clear,615,No,Bicycle,4,3,Night,5,3
+INC00480,2024-04-07,21:30,Market Road,Minor,Urban Road,Roundabout,80,No,Moderate,Foggy,274,No,Bus,3,21,Night,6,4
+INC00481,2024-12-09,22:30,Central Junction,Moderate,Residential Road,Roundabout,40,No,Good,Clear,449,No,Truck,1,22,Night,0,12
+INC00482,2025-05-29,11:30,Central Junction,Minor,Urban Road,T-Junction,60,No,Good,Clear,130,No,Bicycle,4,11,Morning,3,5
+INC00483,2024-06-24,07:15,Industrial Area,Moderate,School Zone,No Junction,30,No,Good,Rainy,147,Yes,Bicycle,4,7,Morning,0,6
+INC00484,2025-03-08,16:45,Bus Stand Road,Moderate,Residential Road,Roundabout,40,No,Good,Clear,379,No,Bus,2,16,Afternoon,5,3
+INC00485,2025-11-02,10:15,Industrial Area,Moderate,School Zone,T-Junction,40,No,Moderate,Rainy,811,No,Truck,2,10,Morning,6,11
+INC00486,2024-11-09,10:45,Market Road,Moderate,Residential Road,Roundabout,60,No,Good,Clear,240,No,Car,3,10,Morning,5,11
+INC00487,2025-12-23,21:30,River Bridge,Minor,Urban Road,Crossroad,60,No,Moderate,Cloudy,1021,No,Bicycle,4,21,Night,1,12
+INC00488,2025-09-22,11:45,Central Junction,Moderate,School Zone,Crossroad,40,No,Good,Rainy,625,No,Bicycle,1,11,Morning,0,9
+INC00489,2025-02-24,13:45,Highway East,Minor,Urban Road,Roundabout,30,No,Moderate,Foggy,317,No,Car,3,13,Afternoon,0,2
+INC00490,2025-12-13,04:00,River Bridge,Moderate,Highway,T-Junction,50,No,Moderate,Clear,844,No,Two-wheeler,3,4,Night,5,12
+INC00491,2024-10-05,22:30,Central Junction,Minor,School Zone,Roundabout,60,Yes,Good,Foggy,202,No,Van,3,22,Night,5,10
+INC00492,2024-12-19,00:45,Central Junction,Serious,School Zone,Roundabout,60,No,Good,Foggy,63,No,Van,3,0,Night,3,12
+INC00493,2024-10-17,08:00,Market Road,Minor,Residential Road,No Junction,80,Yes,Good,Foggy,1090,Yes,Truck,4,8,Morning,3,10
+INC00494,2025-05-14,13:45,Central Junction,Moderate,School Zone,T-Junction,40,No,Moderate,Clear,477,No,Bicycle,1,13,Afternoon,2,5
+INC00495,2025-08-23,11:30,Central Junction,Moderate,School Zone,T-Junction,40,Yes,Good,Cloudy,395,No,Van,2,11,Morning,5,8
+INC00496,2025-07-03,03:00,Highway East,Minor,Residential Road,Roundabout,40,Yes,Good,Foggy,438,No,Two-wheeler,4,3,Night,3,7
+INC00497,2025-02-13,14:15,Highway East,Fatal,Highway,Crossroad,80,No,Good,Rainy,130,No,Van,3,14,Afternoon,3,2
+INC00498,2025-06-06,00:30,Central Junction,Moderate,School Zone,Crossroad,60,Yes,Good,Cloudy,1479,No,Bus,1,0,Night,4,6
+INC00499,2025-07-10,11:30,Highway East,Moderate,School Zone,Roundabout,60,Yes,Moderate,Cloudy,554,No,Truck,1,11,Morning,3,7
+INC00500,2024-08-24,17:00,Central Junction,Minor,School Zone,T-Junction,80,No,Moderate,Rainy,514,Yes,Truck,2,17,Evening,5,8
+INC00501,2024-07-22,07:00,Highway East,Minor,Residential Road,Roundabout,40,No,Poor,Clear,970,Yes,Car,1,7,Morning,0,7
+INC00502,2025-12-24,15:00,School Zone,Moderate,Industrial Road,Roundabout,40,No,Good,Clear,1335,No,Two-wheeler,3,15,Afternoon,2,12
+INC00503,2024-12-01,19:00,Central Junction,Minor,School Zone,T-Junction,50,No,Poor,Clear,1051,Yes,Bicycle,1,19,Evening,6,12
+INC00504,2024-05-16,15:45,Highway East,Moderate,Urban Road,Crossroad,60,Yes,Good,Rainy,185,No,Two-wheeler,3,15,Afternoon,3,5
+INC00505,2024-10-28,15:00,Central Junction,Serious,Urban Road,No Junction,30,Yes,Moderate,Clear,1126,No,Car,1,15,Afternoon,0,10
+INC00506,2024-10-07,21:00,Central Junction,Minor,School Zone,No Junction,50,No,Good,Foggy,626,No,Bus,3,21,Night,0,10
+INC00507,2025-05-05,06:45,Market Road,Serious,Highway,Crossroad,40,Yes,Moderate,Foggy,291,No,Bicycle,1,6,Morning,0,5
+INC00508,2025-11-19,22:30,Bus Stand Road,Minor,Industrial Road,Crossroad,80,No,Good,Rainy,1447,No,Van,3,22,Night,2,11
+INC00509,2025-02-24,05:00,River Bridge,Moderate,School Zone,T-Junction,60,No,Good,Clear,1244,No,Two-wheeler,1,5,Morning,0,2
+INC00510,2024-09-27,11:00,Market Road,Minor,Industrial Road,Crossroad,60,No,Moderate,Rainy,599,No,Bus,4,11,Morning,4,9
+INC00511,2025-04-03,20:15,Central Junction,Minor,Residential Road,Crossroad,30,No,Good,Clear,467,No,Van,3,20,Evening,3,4
+INC00512,2025-08-05,04:30,Industrial Area,Moderate,Urban Road,Crossroad,60,No,Good,Clear,845,No,Two-wheeler,1,4,Night,1,8
+INC00513,2024-09-23,07:15,School Zone,Moderate,Industrial Road,Roundabout,50,No,Moderate,Cloudy,740,Yes,Van,4,7,Morning,0,9
+INC00514,2024-11-13,04:00,Central Junction,Minor,Industrial Road,Crossroad,60,No,Moderate,Clear,1434,No,Truck,3,4,Night,2,11
+INC00515,2024-02-26,16:15,Highway East,Minor,Highway,Roundabout,50,No,Good,Rainy,1134,No,Van,2,16,Afternoon,0,2
+INC00516,2024-12-01,11:30,Highway East,Serious,School Zone,No Junction,60,No,Good,Rainy,806,No,Truck,3,11,Morning,6,12
+INC00517,2024-09-15,08:45,Highway East,Minor,Highway,No Junction,80,No,Moderate,Foggy,591,Yes,Car,3,8,Morning,6,9
+INC00518,2025-08-24,14:00,College Road,Moderate,Urban Road,Crossroad,80,Yes,Moderate,Clear,344,No,Truck,1,14,Afternoon,6,8
+INC00519,2025-02-04,04:30,Bus Stand Road,Moderate,School Zone,T-Junction,50,Yes,Good,Cloudy,942,No,Car,3,4,Night,1,2
+INC00520,2024-08-10,02:45,Highway East,Minor,Highway,Roundabout,60,No,Good,Foggy,1100,No,Truck,1,2,Night,5,8
+INC00521,2024-03-21,18:45,River Bridge,Moderate,School Zone,Crossroad,80,No,Poor,Foggy,1295,Yes,Bus,4,18,Evening,3,3
+INC00522,2024-10-29,15:00,College Road,Minor,Residential Road,Roundabout,40,No,Good,Cloudy,290,No,Bus,1,15,Afternoon,1,10
+INC00523,2024-07-26,09:15,Bus Stand Road,Minor,Urban Road,Crossroad,60,No,Good,Rainy,363,Yes,Truck,4,9,Morning,4,7
+INC00524,2025-06-29,08:45,Industrial Area,Minor,School Zone,T-Junction,30,No,Moderate,Clear,1380,Yes,Van,3,8,Morning,6,6
+INC00525,2025-09-24,08:00,Central Junction,Moderate,Highway,No Junction,50,No,Good,Foggy,369,Yes,Van,3,8,Morning,2,9
+INC00526,2024-01-10,17:30,River Bridge,Minor,Highway,Crossroad,40,Yes,Moderate,Clear,341,Yes,Car,3,17,Evening,2,1
+INC00527,2025-03-07,03:00,Industrial Area,Serious,Industrial Road,T-Junction,40,No,Good,Cloudy,1026,No,Two-wheeler,1,3,Night,4,3
+INC00528,2024-09-04,22:00,Market Road,Minor,Industrial Road,Crossroad,30,No,Poor,Clear,937,No,Bicycle,2,22,Night,2,9
+INC00529,2024-05-02,15:00,Central Junction,Minor,Industrial Road,No Junction,50,No,Moderate,Rainy,1207,No,Van,3,15,Afternoon,3,5
+INC00530,2025-03-10,01:30,Industrial Area,Minor,Highway,T-Junction,50,No,Moderate,Clear,244,No,Truck,2,1,Night,0,3
+INC00531,2024-10-03,22:45,College Road,Minor,Industrial Road,Roundabout,50,No,Good,Clear,891,No,Van,1,22,Night,3,10
+INC00532,2024-06-22,10:30,Highway East,Serious,Urban Road,Roundabout,50,No,Good,Clear,1440,No,Two-wheeler,3,10,Morning,5,6
+INC00533,2024-11-08,22:45,College Road,Fatal,School Zone,T-Junction,40,No,Good,Rainy,1355,No,Van,3,22,Night,4,11
+INC00534,2025-03-30,23:00,Market Road,Moderate,School Zone,Roundabout,60,No,Good,Clear,1014,No,Bus,4,23,Night,6,3
+INC00535,2024-07-14,09:15,Highway East,Minor,School Zone,Roundabout,30,No,Moderate,Rainy,403,Yes,Van,4,9,Morning,6,7
+INC00536,2025-04-03,16:30,Highway East,Serious,Residential Road,No Junction,60,No,Moderate,Clear,1414,No,Car,2,16,Afternoon,3,4
+INC00537,2025-12-24,08:00,Bus Stand Road,Serious,School Zone,No Junction,60,No,Good,Clear,398,Yes,Bicycle,3,8,Morning,2,12
+INC00538,2025-06-22,21:15,Central Junction,Moderate,Highway,Roundabout,40,Yes,Good,Clear,842,No,Bus,2,21,Night,6,6
+INC00539,2024-04-25,15:00,Central Junction,Moderate,Urban Road,T-Junction,50,No,Good,Clear,743,No,Two-wheeler,4,15,Afternoon,3,4
+INC00540,2025-05-22,17:00,Industrial Area,Moderate,Highway,Crossroad,50,Yes,Moderate,Clear,137,Yes,Bicycle,3,17,Evening,3,5
+INC00541,2024-01-13,08:00,School Zone,Moderate,Urban Road,Roundabout,50,No,Moderate,Clear,1405,Yes,Van,3,8,Morning,5,1
+INC00542,2025-03-25,23:15,Highway East,Fatal,Urban Road,Roundabout,60,No,Moderate,Rainy,843,No,Two-wheeler,2,23,Night,1,3
+INC00543,2025-03-23,23:00,Industrial Area,Minor,Residential Road,Roundabout,50,No,Moderate,Rainy,255,No,Truck,2,23,Night,6,3
+INC00544,2024-07-01,12:15,Market Road,Moderate,Residential Road,Roundabout,50,No,Good,Rainy,1452,No,Van,4,12,Afternoon,0,7
+INC00545,2024-10-30,18:30,Highway East,Serious,Urban Road,T-Junction,40,Yes,Good,Cloudy,867,Yes,Two-wheeler,4,18,Evening,2,10
+INC00546,2024-10-21,15:30,Highway East,Fatal,Industrial Road,Roundabout,50,No,Moderate,Cloudy,177,No,Truck,2,15,Afternoon,0,10
+INC00547,2024-10-16,06:00,Highway East,Minor,Industrial Road,T-Junction,50,No,Good,Rainy,909,No,Truck,2,6,Morning,2,10
+INC00548,2024-04-25,13:45,School Zone,Moderate,Highway,Roundabout,60,Yes,Good,Clear,1086,No,Car,3,13,Afternoon,3,4
+INC00549,2024-08-23,06:15,College Road,Moderate,Urban Road,Roundabout,60,No,Good,Cloudy,552,No,Bicycle,2,6,Morning,4,8
+INC00550,2024-07-24,10:00,Industrial Area,Fatal,School Zone,No Junction,50,No,Good,Rainy,1103,No,Bicycle,1,10,Morning,2,7
+INC00551,2024-09-29,11:15,School Zone,Minor,Highway,T-Junction,40,No,Good,Rainy,628,No,Bus,4,11,Morning,6,9
+INC00552,2025-11-27,06:45,Bus Stand Road,Serious,Highway,No Junction,60,No,Good,Clear,870,No,Van,2,6,Morning,3,11
+INC00553,2025-06-26,07:30,Market Road,Minor,Industrial Road,Crossroad,40,No,Good,Cloudy,1024,Yes,Bicycle,1,7,Morning,3,6
+INC00554,2024-01-19,13:30,Highway East,Minor,Highway,Roundabout,60,No,Moderate,Clear,731,No,Two-wheeler,1,13,Afternoon,4,1
+INC00555,2025-04-04,09:45,Industrial Area,Minor,Highway,Crossroad,50,No,Good,Foggy,1078,Yes,Truck,4,9,Morning,4,4
+INC00556,2025-04-03,04:30,Bus Stand Road,Moderate,School Zone,Crossroad,60,Yes,Good,Clear,808,No,Truck,1,4,Night,3,4
+INC00557,2025-08-06,13:00,Central Junction,Minor,Industrial Road,T-Junction,80,Yes,Moderate,Clear,1416,No,Two-wheeler,2,13,Afternoon,2,8
+INC00558,2024-11-06,13:30,Industrial Area,Minor,Industrial Road,T-Junction,40,No,Good,Rainy,1034,No,Truck,2,13,Afternoon,2,11
+INC00559,2025-06-01,16:00,Bus Stand Road,Moderate,Residential Road,Crossroad,40,No,Poor,Clear,759,No,Car,4,16,Afternoon,6,6
+INC00560,2025-11-17,13:00,Bus Stand Road,Minor,Residential Road,No Junction,50,No,Poor,Cloudy,1072,No,Bicycle,1,13,Afternoon,0,11
+INC00561,2025-04-29,12:45,School Zone,Minor,Residential Road,No Junction,30,No,Moderate,Clear,1457,No,Bus,1,12,Afternoon,1,4
+INC00562,2024-10-11,01:45,Industrial Area,Minor,School Zone,Crossroad,60,Yes,Good,Foggy,1396,No,Car,1,1,Night,4,10
+INC00563,2025-04-10,14:00,Industrial Area,Serious,Urban Road,No Junction,60,No,Moderate,Clear,884,No,Bicycle,1,14,Afternoon,3,4
+INC00564,2024-08-04,17:15,Highway East,Moderate,Urban Road,T-Junction,80,Yes,Good,Clear,1101,Yes,Van,1,17,Evening,6,8
+INC00565,2025-09-25,02:00,School Zone,Serious,Industrial Road,Roundabout,40,No,Moderate,Clear,235,No,Car,1,2,Night,3,9
+INC00566,2024-10-01,08:15,Market Road,Moderate,Urban Road,Roundabout,80,No,Good,Rainy,1244,Yes,Bus,4,8,Morning,1,10
+INC00567,2025-07-14,12:30,Market Road,Moderate,School Zone,No Junction,50,Yes,Moderate,Clear,582,No,Van,3,12,Afternoon,0,7
+INC00568,2025-04-16,01:00,Central Junction,Serious,Residential Road,Roundabout,60,Yes,Good,Clear,561,No,Bus,1,1,Night,2,4
+INC00569,2024-10-05,18:45,Industrial Area,Minor,Industrial Road,Crossroad,40,No,Good,Cloudy,931,Yes,Bicycle,1,18,Evening,5,10
+INC00570,2025-12-20,14:00,Central Junction,Moderate,School Zone,No Junction,80,No,Good,Clear,1200,No,Bicycle,1,14,Afternoon,5,12
+INC00571,2024-06-22,02:15,Industrial Area,Minor,Urban Road,T-Junction,50,No,Good,Cloudy,619,No,Van,1,2,Night,5,6
+INC00572,2024-04-16,13:45,River Bridge,Minor,Residential Road,No Junction,60,No,Moderate,Clear,661,No,Car,1,13,Afternoon,1,4
+INC00573,2025-12-08,16:15,Central Junction,Fatal,Industrial Road,T-Junction,60,No,Good,Clear,429,No,Car,1,16,Afternoon,0,12
+INC00574,2024-08-01,21:15,Industrial Area,Minor,Highway,Roundabout,40,No,Good,Foggy,818,No,Bicycle,1,21,Night,3,8
+INC00575,2024-02-10,10:30,Highway East,Minor,Residential Road,Roundabout,30,No,Moderate,Cloudy,1148,No,Two-wheeler,3,10,Morning,5,2
+INC00576,2025-06-08,11:15,Market Road,Serious,School Zone,Crossroad,50,No,Good,Clear,134,No,Car,4,11,Morning,6,6
+INC00577,2024-05-16,06:45,Central Junction,Minor,Residential Road,Crossroad,50,No,Good,Rainy,501,No,Van,2,6,Morning,3,5
+INC00578,2025-10-30,02:00,School Zone,Moderate,School Zone,Roundabout,80,Yes,Good,Clear,113,No,Van,3,2,Night,3,10
+INC00579,2025-12-24,09:15,Central Junction,Moderate,Highway,No Junction,50,Yes,Moderate,Rainy,179,Yes,Van,2,9,Morning,2,12
+INC00580,2025-06-29,09:15,Highway East,Fatal,Industrial Road,Roundabout,60,No,Poor,Clear,886,Yes,Bicycle,1,9,Morning,6,6
+INC00581,2024-02-11,12:15,River Bridge,Moderate,School Zone,No Junction,80,No,Good,Rainy,1472,No,Bus,2,12,Afternoon,6,2
+INC00582,2025-03-30,16:30,College Road,Minor,Urban Road,Crossroad,50,No,Good,Clear,781,No,Two-wheeler,4,16,Afternoon,6,3
+INC00583,2024-08-25,01:45,Industrial Area,Moderate,Industrial Road,Roundabout,40,No,Good,Rainy,1190,No,Truck,1,1,Night,6,8
+INC00584,2024-03-21,18:30,Highway East,Minor,Industrial Road,Roundabout,30,Yes,Good,Rainy,1080,Yes,Bus,4,18,Evening,3,3
+INC00585,2024-12-24,04:00,College Road,Moderate,Urban Road,Crossroad,50,No,Good,Clear,538,No,Bicycle,3,4,Night,1,12
+INC00586,2024-01-08,03:30,Central Junction,Minor,Highway,Roundabout,80,No,Good,Clear,433,No,Bus,4,3,Night,0,1
+INC00587,2025-08-05,18:15,Highway East,Moderate,School Zone,Crossroad,60,No,Moderate,Clear,177,Yes,Van,2,18,Evening,1,8
+INC00588,2025-07-11,21:15,College Road,Moderate,Residential Road,Crossroad,40,No,Poor,Cloudy,173,No,Van,3,21,Night,4,7
+INC00589,2024-04-25,17:30,Industrial Area,Minor,Highway,Crossroad,40,No,Good,Clear,133,Yes,Bicycle,4,17,Evening,3,4
+INC00590,2024-12-25,22:45,Market Road,Minor,Urban Road,Crossroad,60,No,Good,Foggy,542,No,Two-wheeler,4,22,Night,2,12
+INC00591,2024-10-02,21:30,College Road,Serious,Highway,T-Junction,60,No,Good,Clear,561,No,Bus,4,21,Night,2,10
+INC00592,2024-05-08,19:45,Market Road,Serious,Highway,No Junction,60,No,Good,Cloudy,668,Yes,Truck,4,19,Evening,2,5
+INC00593,2024-03-11,23:15,School Zone,Serious,Residential Road,Crossroad,50,No,Moderate,Cloudy,932,No,Bicycle,2,23,Night,0,3
+INC00594,2025-11-19,05:45,Central Junction,Moderate,Residential Road,T-Junction,40,Yes,Good,Rainy,1378,No,Bicycle,4,5,Morning,2,11
+INC00595,2025-04-03,13:45,Central Junction,Serious,Urban Road,No Junction,60,No,Good,Clear,951,No,Truck,3,13,Afternoon,3,4
+INC00596,2024-07-04,00:15,Central Junction,Serious,School Zone,Roundabout,50,No,Good,Clear,508,No,Bicycle,3,0,Night,3,7
+INC00597,2025-04-25,02:30,Central Junction,Moderate,School Zone,Crossroad,40,No,Good,Clear,871,No,Bicycle,2,2,Night,4,4
+INC00598,2025-11-12,05:45,Bus Stand Road,Serious,School Zone,T-Junction,30,No,Good,Clear,842,No,Two-wheeler,2,5,Morning,2,11
+INC00599,2024-05-10,18:00,Highway East,Minor,Residential Road,No Junction,50,No,Moderate,Clear,534,Yes,Bus,1,18,Evening,4,5
+INC00600,2025-03-12,19:45,Highway East,Moderate,Industrial Road,Crossroad,50,Yes,Good,Clear,678,Yes,Van,1,19,Evening,2,3
+INC00601,2024-06-19,10:15,Bus Stand Road,Fatal,Highway,No Junction,40,No,Poor,Rainy,66,No,Truck,3,10,Morning,2,6
+INC00602,2024-11-28,06:45,Central Junction,Minor,School Zone,Crossroad,50,No,Moderate,Cloudy,470,No,Van,3,6,Morning,3,11
+INC00603,2025-04-09,10:00,Industrial Area,Minor,Urban Road,Crossroad,80,No,Moderate,Clear,1021,No,Two-wheeler,1,10,Morning,2,4
+INC00604,2025-03-08,20:15,Central Junction,Minor,Residential Road,Roundabout,40,Yes,Good,Cloudy,986,No,Bicycle,4,20,Evening,5,3
+INC00605,2024-08-27,07:15,Market Road,Moderate,Industrial Road,Roundabout,50,Yes,Moderate,Foggy,420,Yes,Bicycle,2,7,Morning,1,8
+INC00606,2025-11-11,07:30,Central Junction,Minor,Industrial Road,Crossroad,60,No,Good,Rainy,1433,Yes,Bus,1,7,Morning,1,11
+INC00607,2025-08-15,23:00,Central Junction,Moderate,Highway,Roundabout,80,No,Moderate,Clear,711,No,Bicycle,1,23,Night,4,8
+INC00608,2024-09-11,12:30,Central Junction,Minor,School Zone,Roundabout,50,Yes,Moderate,Cloudy,794,No,Car,3,12,Afternoon,2,9
+INC00609,2024-05-30,16:00,Highway East,Minor,Industrial Road,Roundabout,50,Yes,Moderate,Clear,668,No,Truck,3,16,Afternoon,3,5
+INC00610,2025-09-06,08:00,River Bridge,Serious,School Zone,Roundabout,40,Yes,Good,Clear,1245,Yes,Two-wheeler,1,8,Morning,5,9
+INC00611,2025-08-26,16:30,School Zone,Moderate,Urban Road,Crossroad,80,Yes,Good,Foggy,1491,No,Truck,1,16,Afternoon,1,8
+INC00612,2025-08-01,03:15,River Bridge,Minor,Highway,Crossroad,50,No,Good,Clear,75,No,Bus,2,3,Night,4,8
+INC00613,2024-02-08,00:45,Central Junction,Moderate,Urban Road,No Junction,60,No,Good,Clear,186,No,Two-wheeler,2,0,Night,3,2
+INC00614,2025-03-25,19:45,Central Junction,Minor,Highway,Crossroad,50,No,Good,Clear,1291,Yes,Two-wheeler,1,19,Evening,1,3
+INC00615,2024-09-19,02:30,School Zone,Minor,Industrial Road,T-Junction,40,No,Moderate,Foggy,289,No,Van,4,2,Night,3,9
+INC00616,2024-07-15,03:30,Market Road,Minor,Industrial Road,Roundabout,80,No,Good,Clear,1332,No,Van,4,3,Night,0,7
+INC00617,2025-02-08,19:45,River Bridge,Minor,Highway,T-Junction,50,No,Good,Clear,826,Yes,Bus,1,19,Evening,5,2
+INC00618,2025-03-04,23:30,Market Road,Minor,Industrial Road,T-Junction,30,No,Good,Clear,1315,No,Van,4,23,Night,1,3
+INC00619,2025-12-17,19:30,Highway East,Moderate,Residential Road,T-Junction,50,No,Good,Rainy,1203,Yes,Two-wheeler,3,19,Evening,2,12
+INC00620,2025-02-08,04:15,Market Road,Serious,Industrial Road,T-Junction,80,No,Good,Clear,319,No,Bicycle,3,4,Night,5,2
+INC00621,2025-12-21,13:00,Industrial Area,Moderate,Urban Road,No Junction,60,No,Good,Cloudy,249,No,Two-wheeler,4,13,Afternoon,6,12
+INC00622,2024-04-21,10:30,Industrial Area,Moderate,Highway,T-Junction,60,No,Good,Clear,838,No,Car,3,10,Morning,6,4
+INC00623,2025-12-04,20:30,River Bridge,Minor,School Zone,T-Junction,60,No,Good,Clear,830,No,Bus,2,20,Evening,3,12
+INC00624,2025-08-05,19:00,School Zone,Minor,Industrial Road,Roundabout,80,No,Good,Cloudy,154,Yes,Bicycle,3,19,Evening,1,8
+INC00625,2025-11-08,03:30,School Zone,Minor,Residential Road,Roundabout,60,No,Good,Cloudy,443,No,Van,4,3,Night,5,11
+INC00626,2024-12-26,19:15,Central Junction,Moderate,Urban Road,No Junction,40,No,Good,Rainy,396,Yes,Van,3,19,Evening,3,12
+INC00627,2025-05-05,09:30,Bus Stand Road,Fatal,Urban Road,Crossroad,60,No,Good,Rainy,1177,Yes,Truck,3,9,Morning,0,5
+INC00628,2024-01-12,17:30,Market Road,Moderate,Highway,T-Junction,40,Yes,Good,Clear,1112,Yes,Bicycle,3,17,Evening,4,1
+INC00629,2025-03-07,19:45,Highway East,Minor,Highway,Roundabout,80,Yes,Good,Clear,836,Yes,Bicycle,4,19,Evening,4,3
+INC00630,2025-01-27,21:15,Industrial Area,Minor,Urban Road,T-Junction,40,Yes,Moderate,Clear,69,No,Car,4,21,Night,0,1
+INC00631,2024-07-27,17:00,Industrial Area,Minor,Industrial Road,No Junction,60,Yes,Moderate,Clear,676,Yes,Truck,2,17,Evening,5,7
+INC00632,2024-06-02,00:00,Central Junction,Minor,School Zone,Roundabout,80,Yes,Moderate,Rainy,746,No,Car,1,0,Night,6,6
+INC00633,2024-11-01,05:15,Market Road,Serious,Highway,T-Junction,80,No,Good,Rainy,1052,No,Van,3,5,Morning,4,11
+INC00634,2024-04-28,01:00,Industrial Area,Minor,Highway,Crossroad,40,No,Good,Clear,196,No,Bus,2,1,Night,6,4
+INC00635,2024-02-01,00:45,Market Road,Serious,Industrial Road,No Junction,60,No,Good,Rainy,985,No,Bicycle,2,0,Night,3,2
+INC00636,2025-11-16,05:00,College Road,Minor,School Zone,Crossroad,50,Yes,Good,Rainy,1292,No,Bicycle,1,5,Morning,6,11
+INC00637,2025-08-25,09:00,Industrial Area,Minor,School Zone,Roundabout,50,No,Poor,Clear,1356,Yes,Two-wheeler,4,9,Morning,0,8
+INC00638,2024-05-23,01:45,School Zone,Minor,Highway,Roundabout,80,No,Moderate,Clear,998,No,Bus,3,1,Night,3,5
+INC00639,2024-06-14,19:15,Highway East,Moderate,Highway,T-Junction,50,No,Good,Clear,273,Yes,Truck,3,19,Evening,4,6
+INC00640,2024-03-19,15:00,Highway East,Fatal,Industrial Road,Roundabout,50,Yes,Moderate,Rainy,305,No,Two-wheeler,4,15,Afternoon,1,3
+INC00641,2025-05-20,20:30,River Bridge,Moderate,Industrial Road,T-Junction,50,No,Good,Cloudy,737,No,Two-wheeler,1,20,Evening,1,5
+INC00642,2024-10-24,19:15,River Bridge,Minor,Industrial Road,Crossroad,60,No,Good,Cloudy,583,Yes,Van,3,19,Evening,3,10
+INC00643,2025-09-20,10:15,Bus Stand Road,Moderate,School Zone,Crossroad,40,No,Good,Clear,114,No,Two-wheeler,4,10,Morning,5,9
+INC00644,2024-03-31,09:30,Bus Stand Road,Moderate,Residential Road,Roundabout,50,Yes,Moderate,Rainy,435,Yes,Bicycle,1,9,Morning,6,3
+INC00645,2025-05-29,00:45,College Road,Minor,School Zone,Roundabout,40,No,Good,Clear,728,No,Car,1,0,Night,3,5
+INC00646,2024-08-21,22:45,River Bridge,Minor,School Zone,T-Junction,50,Yes,Good,Cloudy,1229,No,Bus,4,22,Night,2,8
+INC00647,2024-12-02,17:00,College Road,Moderate,Highway,No Junction,40,Yes,Good,Cloudy,913,Yes,Van,1,17,Evening,0,12
+INC00648,2024-05-11,17:30,Bus Stand Road,Moderate,Urban Road,Roundabout,80,No,Good,Rainy,274,Yes,Bus,3,17,Evening,5,5
+INC00649,2024-01-03,05:45,Highway East,Minor,Industrial Road,No Junction,80,No,Moderate,Foggy,390,No,Bicycle,2,5,Morning,2,1
+INC00650,2025-07-10,12:15,Central Junction,Minor,Residential Road,Roundabout,40,No,Good,Foggy,1270,No,Car,3,12,Afternoon,3,7
+INC00651,2024-12-14,05:30,Central Junction,Moderate,School Zone,No Junction,40,Yes,Good,Clear,1446,No,Truck,4,5,Morning,5,12
+INC00652,2024-10-14,03:15,School Zone,Moderate,Industrial Road,Crossroad,60,Yes,Poor,Clear,1494,No,Two-wheeler,1,3,Night,0,10
+INC00653,2025-03-31,02:30,Central Junction,Moderate,Urban Road,Roundabout,60,Yes,Moderate,Cloudy,1388,No,Bus,3,2,Night,0,3
+INC00654,2024-05-22,11:30,College Road,Minor,Industrial Road,T-Junction,60,No,Moderate,Clear,1217,No,Bicycle,2,11,Morning,2,5
+INC00655,2024-09-28,11:00,Bus Stand Road,Moderate,Industrial Road,T-Junction,80,No,Good,Rainy,1122,No,Bicycle,3,11,Morning,5,9
+INC00656,2024-03-10,15:45,Bus Stand Road,Moderate,Industrial Road,Crossroad,60,No,Good,Clear,895,No,Two-wheeler,4,15,Afternoon,6,3
+INC00657,2024-01-31,18:00,River Bridge,Moderate,Urban Road,Roundabout,60,Yes,Good,Clear,608,Yes,Car,1,18,Evening,2,1
+INC00658,2025-05-25,01:00,Bus Stand Road,Serious,Highway,No Junction,30,No,Good,Cloudy,1033,No,Van,1,1,Night,6,5
+INC00659,2025-04-18,17:30,Industrial Area,Moderate,Highway,Crossroad,60,No,Moderate,Clear,1050,Yes,Van,1,17,Evening,4,4
+INC00660,2025-12-30,17:15,Bus Stand Road,Moderate,Urban Road,Roundabout,50,Yes,Good,Rainy,287,Yes,Truck,4,17,Evening,1,12
+INC00661,2025-11-13,17:15,School Zone,Moderate,Highway,No Junction,80,No,Good,Cloudy,308,Yes,Two-wheeler,4,17,Evening,3,11
+INC00662,2025-02-23,11:15,Bus Stand Road,Moderate,Industrial Road,Crossroad,30,No,Good,Foggy,1033,No,Van,2,11,Morning,6,2
+INC00663,2024-02-25,18:45,Highway East,Minor,School Zone,No Junction,40,No,Moderate,Clear,1479,Yes,Bus,1,18,Evening,6,2
+INC00664,2024-05-31,14:30,Market Road,Minor,Urban Road,Roundabout,80,No,Good,Clear,924,No,Car,3,14,Afternoon,4,5
+INC00665,2024-01-29,17:15,Industrial Area,Minor,Urban Road,T-Junction,80,No,Good,Rainy,1454,Yes,Van,3,17,Evening,0,1
+INC00666,2025-03-24,04:15,River Bridge,Minor,Residential Road,Crossroad,80,No,Good,Cloudy,1017,No,Bicycle,3,4,Night,0,3
+INC00667,2024-02-06,16:15,College Road,Moderate,School Zone,Roundabout,40,No,Good,Clear,254,No,Truck,4,16,Afternoon,1,2
+INC00668,2025-12-04,14:45,River Bridge,Minor,Residential Road,T-Junction,60,No,Good,Cloudy,1438,No,Bicycle,1,14,Afternoon,3,12
+INC00669,2025-02-04,00:15,School Zone,Serious,Highway,No Junction,80,No,Poor,Clear,1005,No,Bus,3,0,Night,1,2
+INC00670,2024-04-30,13:00,Industrial Area,Moderate,Urban Road,Roundabout,30,Yes,Good,Clear,809,No,Van,3,13,Afternoon,1,4
+INC00671,2025-12-05,12:00,Industrial Area,Moderate,Highway,T-Junction,50,No,Poor,Clear,570,No,Two-wheeler,4,12,Afternoon,4,12
+INC00672,2024-11-08,15:45,Industrial Area,Serious,Highway,Roundabout,50,No,Good,Clear,938,No,Van,2,15,Afternoon,4,11
+INC00673,2025-08-05,21:30,Bus Stand Road,Moderate,Residential Road,No Junction,30,Yes,Moderate,Cloudy,1323,No,Two-wheeler,2,21,Night,1,8
+INC00674,2024-07-12,13:30,Central Junction,Moderate,Highway,Roundabout,30,Yes,Good,Clear,177,No,Truck,3,13,Afternoon,4,7
+INC00675,2025-04-03,22:30,Central Junction,Moderate,Residential Road,T-Junction,50,Yes,Good,Cloudy,354,No,Truck,4,22,Night,3,4
+INC00676,2024-04-19,05:15,Highway East,Moderate,School Zone,No Junction,60,Yes,Good,Foggy,1115,No,Car,2,5,Morning,4,4
+INC00677,2024-12-19,10:30,Industrial Area,Moderate,Highway,No Junction,60,Yes,Good,Clear,1347,No,Bus,2,10,Morning,3,12
+INC00678,2025-04-10,08:45,Market Road,Moderate,Urban Road,No Junction,60,No,Moderate,Foggy,1136,Yes,Bicycle,4,8,Morning,3,4
+INC00679,2025-11-08,10:15,College Road,Moderate,Residential Road,Roundabout,60,No,Good,Clear,1038,No,Two-wheeler,3,10,Morning,5,11
+INC00680,2025-04-10,02:45,Industrial Area,Minor,Residential Road,T-Junction,50,No,Good,Rainy,1219,No,Bicycle,2,2,Night,3,4
+INC00681,2024-02-18,18:15,College Road,Moderate,Urban Road,Crossroad,50,No,Moderate,Clear,1010,Yes,Bicycle,3,18,Evening,6,2
+INC00682,2024-01-11,04:30,Central Junction,Minor,Industrial Road,Crossroad,30,No,Good,Clear,717,No,Bus,4,4,Night,3,1
+INC00683,2024-08-02,21:45,College Road,Minor,Residential Road,Roundabout,80,No,Good,Clear,1419,No,Bicycle,3,21,Night,4,8
+INC00684,2025-10-18,13:15,River Bridge,Moderate,Industrial Road,No Junction,50,No,Good,Rainy,1117,No,Bicycle,4,13,Afternoon,5,10
+INC00685,2024-04-17,11:15,Market Road,Minor,Residential Road,Crossroad,30,No,Moderate,Clear,538,No,Bicycle,4,11,Morning,2,4
+INC00686,2025-09-01,03:00,Industrial Area,Fatal,Highway,Roundabout,80,Yes,Good,Clear,1129,No,Bicycle,3,3,Night,0,9
+INC00687,2024-03-11,11:30,Bus Stand Road,Fatal,Residential Road,T-Junction,30,Yes,Good,Clear,641,No,Truck,4,11,Morning,0,3
+INC00688,2024-12-06,19:45,School Zone,Moderate,Industrial Road,T-Junction,40,Yes,Good,Cloudy,1440,Yes,Van,3,19,Evening,4,12
+INC00689,2024-08-07,14:15,Bus Stand Road,Minor,Industrial Road,T-Junction,50,No,Good,Rainy,1133,No,Van,2,14,Afternoon,2,8
+INC00690,2025-03-12,17:00,Highway East,Moderate,Industrial Road,Roundabout,80,No,Good,Clear,669,Yes,Car,4,17,Evening,2,3
+INC00691,2025-07-05,02:00,Market Road,Serious,Urban Road,No Junction,60,No,Poor,Clear,1255,No,Bus,2,2,Night,5,7
+INC00692,2025-02-06,13:30,Bus Stand Road,Moderate,School Zone,Roundabout,40,No,Good,Clear,1193,No,Car,1,13,Afternoon,3,2
+INC00693,2024-05-10,13:45,Bus Stand Road,Minor,Urban Road,No Junction,30,Yes,Good,Cloudy,1123,No,Truck,3,13,Afternoon,4,5
+INC00694,2024-11-16,01:00,Market Road,Moderate,Highway,T-Junction,60,No,Moderate,Rainy,1050,No,Two-wheeler,4,1,Night,5,11
+INC00695,2024-06-16,00:00,Bus Stand Road,Serious,Urban Road,T-Junction,80,No,Good,Cloudy,463,No,Two-wheeler,4,0,Night,6,6
+INC00696,2024-05-01,19:45,River Bridge,Minor,Highway,T-Junction,30,No,Good,Rainy,234,Yes,Car,3,19,Evening,2,5
+INC00697,2024-08-07,10:15,Central Junction,Minor,Residential Road,Roundabout,50,Yes,Good,Cloudy,464,No,Van,4,10,Morning,2,8
+INC00698,2025-09-27,15:30,Industrial Area,Fatal,Industrial Road,Roundabout,80,Yes,Good,Clear,1228,No,Bus,4,15,Afternoon,5,9
+INC00699,2025-02-26,16:00,Central Junction,Minor,School Zone,T-Junction,30,Yes,Poor,Cloudy,740,No,Car,2,16,Afternoon,2,2
+INC00700,2025-02-16,12:45,Highway East,Minor,Highway,Crossroad,80,No,Good,Clear,889,No,Bus,4,12,Afternoon,6,2
+INC00701,2024-08-28,02:00,Market Road,Moderate,Highway,Roundabout,50,No,Good,Clear,533,No,Van,3,2,Night,2,8
+INC00702,2024-01-25,06:30,River Bridge,Moderate,Urban Road,No Junction,60,No,Moderate,Cloudy,1175,No,Bus,1,6,Morning,3,1
+INC00703,2024-07-07,14:00,Highway East,Fatal,Residential Road,No Junction,40,Yes,Good,Clear,829,No,Van,2,14,Afternoon,6,7
+INC00704,2024-02-08,09:30,School Zone,Moderate,Highway,No Junction,60,Yes,Good,Cloudy,165,Yes,Van,1,9,Morning,3,2
+INC00705,2025-04-22,05:30,School Zone,Moderate,Residential Road,Crossroad,60,Yes,Poor,Cloudy,452,No,Van,1,5,Morning,1,4
+INC00706,2025-04-06,06:45,Central Junction,Fatal,Industrial Road,No Junction,40,No,Moderate,Clear,876,No,Two-wheeler,3,6,Morning,6,4
+INC00707,2025-03-24,23:45,Central Junction,Serious,Industrial Road,No Junction,50,No,Good,Rainy,1296,No,Two-wheeler,4,23,Night,0,3
+INC00708,2024-10-14,05:45,Market Road,Moderate,Industrial Road,No Junction,80,No,Good,Cloudy,1158,No,Van,3,5,Morning,0,10
+INC00709,2025-06-16,23:00,Market Road,Moderate,School Zone,Roundabout,60,No,Poor,Rainy,709,No,Car,4,23,Night,0,6
+INC00710,2025-03-28,20:30,School Zone,Minor,Residential Road,Roundabout,50,No,Good,Cloudy,835,No,Truck,1,20,Evening,4,3
+INC00711,2025-11-07,15:30,Central Junction,Minor,Highway,Crossroad,80,No,Moderate,Clear,1029,No,Bicycle,4,15,Afternoon,4,11
+INC00712,2024-07-10,22:30,Market Road,Serious,School Zone,Crossroad,60,No,Good,Clear,1029,No,Two-wheeler,3,22,Night,2,7
+INC00713,2025-08-06,00:15,Bus Stand Road,Minor,School Zone,T-Junction,50,No,Good,Clear,1272,No,Two-wheeler,4,0,Night,2,8
+INC00714,2024-07-22,05:45,Central Junction,Minor,School Zone,No Junction,60,No,Good,Cloudy,77,No,Truck,3,5,Morning,0,7
+INC00715,2025-08-05,18:15,Bus Stand Road,Moderate,School Zone,No Junction,40,No,Moderate,Cloudy,367,Yes,Bicycle,3,18,Evening,1,8
+INC00716,2024-03-04,12:45,School Zone,Minor,Residential Road,T-Junction,60,No,Good,Clear,581,No,Van,1,12,Afternoon,0,3
+INC00717,2025-08-26,04:30,School Zone,Minor,Urban Road,Crossroad,50,No,Moderate,Foggy,1045,No,Bicycle,1,4,Night,1,8
+INC00718,2025-08-27,01:30,School Zone,Minor,Highway,No Junction,80,No,Good,Clear,558,No,Two-wheeler,3,1,Night,2,8
+INC00719,2024-11-25,13:45,Industrial Area,Fatal,Highway,No Junction,50,Yes,Good,Rainy,288,No,Van,4,13,Afternoon,0,11
+INC00720,2024-03-15,04:00,School Zone,Minor,Industrial Road,T-Junction,40,No,Moderate,Clear,879,No,Van,2,4,Night,4,3
+INC00721,2025-08-26,11:15,Central Junction,Serious,Residential Road,Roundabout,60,No,Moderate,Clear,1390,No,Bicycle,4,11,Morning,1,8
+INC00722,2025-06-06,11:30,Industrial Area,Minor,Urban Road,No Junction,40,No,Good,Cloudy,1304,No,Two-wheeler,1,11,Morning,4,6
+INC00723,2024-02-13,12:30,Central Junction,Minor,Industrial Road,T-Junction,60,No,Good,Clear,1495,No,Truck,4,12,Afternoon,1,2
+INC00724,2024-03-28,23:00,Central Junction,Serious,Urban Road,T-Junction,80,No,Good,Rainy,1347,No,Bus,1,23,Night,3,3
+INC00725,2025-07-21,03:30,Highway East,Moderate,Urban Road,T-Junction,50,Yes,Moderate,Cloudy,1258,No,Two-wheeler,1,3,Night,0,7
+INC00726,2024-06-13,15:00,Market Road,Serious,Industrial Road,Roundabout,60,No,Moderate,Clear,324,No,Bicycle,1,15,Afternoon,3,6
+INC00727,2025-11-20,03:15,School Zone,Moderate,Urban Road,No Junction,40,No,Poor,Rainy,495,No,Truck,2,3,Night,3,11
+INC00728,2024-02-08,15:30,Central Junction,Minor,School Zone,Crossroad,60,No,Good,Clear,1116,No,Truck,4,15,Afternoon,3,2
+INC00729,2024-03-01,13:30,Bus Stand Road,Minor,Urban Road,Crossroad,50,No,Moderate,Clear,1379,No,Two-wheeler,4,13,Afternoon,4,3
+INC00730,2024-07-05,20:45,Central Junction,Minor,School Zone,Roundabout,60,No,Moderate,Foggy,841,No,Car,3,20,Evening,4,7
+INC00731,2024-01-29,03:15,College Road,Minor,Urban Road,Crossroad,40,No,Good,Clear,786,No,Car,3,3,Night,0,1
+INC00732,2024-01-04,11:15,Bus Stand Road,Fatal,Residential Road,Crossroad,60,No,Good,Cloudy,1382,No,Bicycle,3,11,Morning,3,1
+INC00733,2025-01-22,04:45,Industrial Area,Serious,Residential Road,Roundabout,80,Yes,Poor,Cloudy,656,No,Two-wheeler,1,4,Night,2,1
+INC00734,2024-01-29,06:45,Central Junction,Moderate,School Zone,T-Junction,50,No,Good,Foggy,197,No,Bus,4,6,Morning,0,1
+INC00735,2024-08-03,09:15,River Bridge,Moderate,Highway,No Junction,30,Yes,Good,Cloudy,1323,Yes,Van,1,9,Morning,5,8
+INC00736,2025-05-06,05:00,Industrial Area,Minor,Industrial Road,No Junction,40,Yes,Good,Foggy,376,No,Van,2,5,Morning,1,5
+INC00737,2024-05-07,05:00,River Bridge,Minor,Residential Road,Crossroad,60,No,Moderate,Clear,988,No,Two-wheeler,3,5,Morning,1,5
+INC00738,2025-02-28,14:15,Bus Stand Road,Moderate,Industrial Road,No Junction,40,No,Good,Foggy,804,No,Bicycle,1,14,Afternoon,4,2
+INC00739,2025-12-18,18:30,Highway East,Minor,Industrial Road,Roundabout,50,No,Good,Cloudy,734,Yes,Truck,2,18,Evening,3,12
+INC00740,2024-06-06,21:30,Central Junction,Moderate,Highway,Crossroad,60,No,Good,Clear,242,No,Van,1,21,Night,3,6
+INC00741,2024-10-17,17:15,Market Road,Minor,Residential Road,T-Junction,40,Yes,Good,Clear,921,Yes,Two-wheeler,3,17,Evening,3,10
+INC00742,2025-04-01,06:15,Market Road,Serious,School Zone,No Junction,40,No,Moderate,Foggy,605,No,Car,4,6,Morning,1,4
+INC00743,2024-01-13,07:15,Central Junction,Moderate,Residential Road,T-Junction,80,Yes,Good,Clear,1058,Yes,Van,4,7,Morning,5,1
+INC00744,2025-09-29,23:30,College Road,Moderate,Industrial Road,Roundabout,40,No,Good,Rainy,1110,No,Car,3,23,Night,0,9
+INC00745,2025-08-30,08:00,School Zone,Moderate,Urban Road,No Junction,60,No,Good,Clear,841,Yes,Bicycle,2,8,Morning,5,8
+INC00746,2025-02-21,13:45,School Zone,Moderate,Urban Road,Crossroad,40,No,Good,Foggy,1130,No,Bus,1,13,Afternoon,4,2
+INC00747,2025-09-14,05:45,Market Road,Moderate,School Zone,Roundabout,40,No,Poor,Cloudy,1318,No,Van,4,5,Morning,6,9
+INC00748,2025-03-23,15:15,School Zone,Moderate,Industrial Road,T-Junction,50,Yes,Poor,Clear,1403,No,Bicycle,4,15,Afternoon,6,3
+INC00749,2024-02-27,19:30,School Zone,Minor,School Zone,T-Junction,40,No,Good,Cloudy,268,Yes,Bus,4,19,Evening,1,2
+INC00750,2025-03-24,03:15,Central Junction,Minor,Residential Road,T-Junction,50,No,Good,Clear,922,No,Van,2,3,Night,0,3
+INC00751,2025-06-30,21:30,Industrial Area,Serious,Urban Road,Crossroad,80,No,Good,Clear,673,No,Bicycle,3,21,Night,0,6
+INC00752,2025-02-18,04:15,Bus Stand Road,Minor,Highway,No Junction,50,No,Good,Clear,521,No,Van,3,4,Night,1,2
+INC00753,2024-07-31,06:00,Market Road,Fatal,School Zone,Crossroad,50,No,Moderate,Clear,1026,No,Two-wheeler,2,6,Morning,2,7
+INC00754,2025-04-11,06:30,Central Junction,Moderate,Industrial Road,No Junction,80,No,Good,Rainy,258,No,Two-wheeler,3,6,Morning,4,4
+INC00755,2025-11-19,17:00,River Bridge,Moderate,Highway,T-Junction,40,No,Good,Foggy,890,Yes,Car,4,17,Evening,2,11
+INC00756,2025-07-27,18:30,Bus Stand Road,Minor,Industrial Road,Roundabout,40,No,Good,Rainy,251,Yes,Bus,4,18,Evening,6,7
+INC00757,2024-11-21,18:15,School Zone,Moderate,Urban Road,No Junction,80,No,Good,Cloudy,1133,Yes,Truck,1,18,Evening,3,11
+INC00758,2025-06-09,02:00,School Zone,Serious,Industrial Road,Crossroad,50,No,Good,Clear,490,No,Van,1,2,Night,0,6
+INC00759,2024-03-25,18:15,Central Junction,Minor,School Zone,Crossroad,40,Yes,Good,Clear,541,Yes,Car,2,18,Evening,0,3
+INC00760,2025-07-04,12:45,Market Road,Minor,Industrial Road,Crossroad,60,No,Good,Clear,1428,No,Truck,3,12,Afternoon,4,7
+INC00761,2024-09-02,13:00,Central Junction,Serious,Residential Road,Crossroad,50,No,Moderate,Cloudy,211,No,Van,3,13,Afternoon,0,9
+INC00762,2025-11-28,16:00,Bus Stand Road,Minor,School Zone,No Junction,40,No,Good,Cloudy,1271,No,Bicycle,1,16,Afternoon,4,11
+INC00763,2025-11-28,12:45,College Road,Minor,School Zone,T-Junction,40,Yes,Moderate,Cloudy,308,No,Car,2,12,Afternoon,4,11
+INC00764,2025-10-17,21:15,Central Junction,Serious,Urban Road,Crossroad,40,Yes,Good,Clear,1234,No,Two-wheeler,4,21,Night,4,10
+INC00765,2025-08-23,17:00,Central Junction,Fatal,Urban Road,No Junction,30,Yes,Good,Rainy,891,Yes,Bus,3,17,Evening,5,8
+INC00766,2024-12-07,10:30,Highway East,Serious,School Zone,No Junction,30,No,Moderate,Cloudy,1148,No,Van,1,10,Morning,5,12
+INC00767,2024-11-07,01:30,School Zone,Minor,School Zone,No Junction,60,No,Poor,Rainy,1223,No,Truck,1,1,Night,3,11
+INC00768,2024-10-22,00:00,School Zone,Minor,School Zone,T-Junction,40,No,Good,Clear,304,No,Van,4,0,Night,1,10
+INC00769,2025-10-31,05:45,Industrial Area,Moderate,Highway,T-Junction,60,No,Moderate,Clear,914,No,Two-wheeler,4,5,Morning,4,10
+INC00770,2025-11-13,08:45,Central Junction,Minor,Urban Road,No Junction,50,No,Good,Rainy,209,Yes,Bicycle,4,8,Morning,3,11
+INC00771,2025-05-12,06:00,Central Junction,Moderate,Urban Road,Crossroad,60,No,Good,Clear,460,No,Two-wheeler,3,6,Morning,0,5
+INC00772,2025-01-10,08:00,Highway East,Serious,Urban Road,No Junction,30,Yes,Poor,Rainy,282,Yes,Two-wheeler,3,8,Morning,4,1
+INC00773,2025-07-21,22:30,Market Road,Serious,Highway,No Junction,80,No,Good,Clear,947,No,Car,2,22,Night,0,7
+INC00774,2025-02-19,07:15,Market Road,Minor,Industrial Road,Roundabout,40,No,Good,Rainy,293,Yes,Two-wheeler,4,7,Morning,2,2
+INC00775,2025-03-14,11:30,College Road,Moderate,Highway,No Junction,30,No,Good,Cloudy,1059,No,Truck,3,11,Morning,4,3
+INC00776,2024-10-12,17:45,Bus Stand Road,Minor,Urban Road,Crossroad,50,Yes,Good,Cloudy,469,Yes,Van,2,17,Evening,5,10
+INC00777,2025-10-31,17:45,River Bridge,Minor,Residential Road,T-Junction,60,No,Good,Rainy,353,Yes,Two-wheeler,1,17,Evening,4,10
+INC00778,2025-07-24,08:45,River Bridge,Minor,Urban Road,No Junction,40,No,Good,Foggy,853,Yes,Bus,2,8,Morning,3,7
+INC00779,2024-05-27,20:45,Central Junction,Minor,Highway,T-Junction,80,No,Moderate,Cloudy,388,No,Van,2,20,Evening,0,5
+INC00780,2024-12-10,18:00,Highway East,Minor,Residential Road,No Junction,40,No,Poor,Rainy,1149,Yes,Car,3,18,Evening,1,12
+INC00781,2024-02-29,20:15,Central Junction,Serious,Industrial Road,T-Junction,60,No,Good,Cloudy,265,No,Bicycle,4,20,Evening,3,2
+INC00782,2024-02-09,12:30,Market Road,Serious,Industrial Road,Crossroad,30,Yes,Good,Clear,848,No,Bus,3,12,Afternoon,4,2
+INC00783,2025-02-25,07:15,Market Road,Minor,Highway,Crossroad,60,Yes,Moderate,Clear,926,Yes,Two-wheeler,2,7,Morning,1,2
+INC00784,2024-03-17,03:00,Market Road,Serious,Urban Road,Crossroad,80,No,Moderate,Clear,511,No,Bus,2,3,Night,6,3
+INC00785,2024-09-26,12:15,Highway East,Moderate,Industrial Road,Roundabout,80,No,Good,Rainy,609,No,Van,3,12,Afternoon,3,9
+INC00786,2024-07-08,15:00,Industrial Area,Moderate,School Zone,No Junction,50,Yes,Good,Clear,276,No,Van,4,15,Afternoon,0,7
+INC00787,2024-08-16,14:30,Industrial Area,Minor,Industrial Road,T-Junction,60,Yes,Good,Clear,1030,No,Bicycle,2,14,Afternoon,4,8
+INC00788,2025-12-29,11:00,Market Road,Minor,Industrial Road,Roundabout,40,No,Good,Rainy,1429,No,Car,3,11,Morning,0,12
+INC00789,2025-03-26,22:45,Highway East,Fatal,Industrial Road,No Junction,40,Yes,Good,Clear,789,No,Van,4,22,Night,2,3
+INC00790,2024-07-02,05:45,School Zone,Serious,Urban Road,No Junction,60,No,Good,Rainy,1482,No,Car,3,5,Morning,1,7
+INC00791,2025-06-10,05:45,Bus Stand Road,Moderate,Industrial Road,No Junction,60,No,Poor,Clear,1153,No,Van,1,5,Morning,1,6
+INC00792,2024-08-27,13:00,School Zone,Minor,Urban Road,Crossroad,30,Yes,Good,Clear,583,No,Bicycle,2,13,Afternoon,1,8
+INC00793,2024-03-19,22:45,Bus Stand Road,Minor,Residential Road,T-Junction,60,No,Good,Clear,1121,No,Van,2,22,Night,1,3
+INC00794,2025-10-23,16:00,Bus Stand Road,Moderate,Urban Road,Crossroad,50,No,Good,Clear,1327,No,Bus,3,16,Afternoon,3,10
+INC00795,2024-10-18,06:00,Market Road,Minor,School Zone,Crossroad,60,Yes,Poor,Clear,544,No,Van,3,6,Morning,4,10
+INC00796,2024-11-07,03:45,Market Road,Minor,Industrial Road,Crossroad,40,No,Moderate,Foggy,1397,No,Bicycle,4,3,Night,3,11
+INC00797,2024-04-05,13:15,Market Road,Moderate,Highway,Crossroad,50,No,Good,Clear,1137,No,Bus,2,13,Afternoon,4,4
+INC00798,2024-07-15,13:45,Industrial Area,Minor,Industrial Road,Roundabout,60,Yes,Good,Clear,555,No,Bus,3,13,Afternoon,0,7
+INC00799,2025-05-08,17:30,Industrial Area,Minor,School Zone,Roundabout,80,No,Moderate,Clear,1067,Yes,Car,2,17,Evening,3,5
+INC00800,2025-03-10,03:15,Bus Stand Road,Minor,Industrial Road,No Junction,50,No,Good,Clear,336,No,Van,3,3,Night,0,3
+INC00801,2025-06-09,17:45,Industrial Area,Serious,Urban Road,Crossroad,60,No,Good,Rainy,957,Yes,Bus,3,17,Evening,0,6
+INC00802,2024-10-30,12:45,Highway East,Minor,Highway,No Junction,40,No,Good,Clear,1487,No,Truck,4,12,Afternoon,2,10
+INC00803,2025-09-11,22:00,Market Road,Serious,Industrial Road,Crossroad,60,Yes,Good,Clear,370,No,Bus,4,22,Night,3,9
+INC00804,2024-01-21,09:15,Bus Stand Road,Moderate,Industrial Road,Roundabout,40,Yes,Good,Clear,1132,Yes,Van,2,9,Morning,6,1
+INC00805,2024-11-02,08:15,Bus Stand Road,Minor,School Zone,T-Junction,50,No,Good,Rainy,1378,Yes,Truck,2,8,Morning,5,11
+INC00806,2024-04-06,05:15,Highway East,Minor,Highway,T-Junction,40,Yes,Moderate,Rainy,353,No,Bicycle,3,5,Morning,5,4
+INC00807,2024-11-04,12:00,Highway East,Moderate,School Zone,T-Junction,60,No,Moderate,Foggy,1259,No,Two-wheeler,1,12,Afternoon,0,11
+INC00808,2024-12-26,05:45,Market Road,Serious,Industrial Road,T-Junction,60,No,Poor,Rainy,102,No,Car,2,5,Morning,3,12
+INC00809,2025-04-11,15:45,Industrial Area,Minor,Industrial Road,T-Junction,40,No,Good,Clear,1484,No,Truck,1,15,Afternoon,4,4
+INC00810,2025-04-07,08:00,Market Road,Moderate,School Zone,T-Junction,50,No,Good,Clear,1226,Yes,Bicycle,3,8,Morning,0,4
+INC00811,2025-04-20,12:15,River Bridge,Fatal,Highway,No Junction,80,No,Poor,Clear,197,No,Bus,2,12,Afternoon,6,4
+INC00812,2025-03-23,16:45,River Bridge,Minor,Highway,Crossroad,50,No,Moderate,Rainy,711,No,Car,1,16,Afternoon,6,3
+INC00813,2025-09-15,06:45,Industrial Area,Minor,Residential Road,T-Junction,40,No,Good,Cloudy,1423,No,Truck,3,6,Morning,0,9
+INC00814,2025-06-20,22:15,Bus Stand Road,Serious,Urban Road,No Junction,60,No,Moderate,Cloudy,891,No,Bus,2,22,Night,4,6
+INC00815,2025-03-16,18:15,Market Road,Serious,Highway,Roundabout,60,No,Good,Cloudy,1413,Yes,Bus,3,18,Evening,6,3
+INC00816,2025-02-13,10:30,School Zone,Moderate,Urban Road,Crossroad,80,Yes,Moderate,Foggy,519,No,Bicycle,2,10,Morning,3,2
+INC00817,2025-11-29,04:00,Industrial Area,Serious,Highway,Roundabout,60,No,Moderate,Clear,252,No,Bicycle,2,4,Night,5,11
+INC00818,2024-02-20,03:30,Central Junction,Moderate,Industrial Road,T-Junction,80,No,Good,Clear,156,No,Van,3,3,Night,1,2
+INC00819,2024-04-01,07:15,Industrial Area,Minor,Industrial Road,T-Junction,60,No,Good,Foggy,95,Yes,Bus,1,7,Morning,0,4
+INC00820,2024-06-02,05:45,River Bridge,Minor,Industrial Road,Crossroad,40,No,Good,Clear,1073,No,Car,3,5,Morning,6,6
+INC00821,2025-08-06,08:30,Central Junction,Minor,Industrial Road,No Junction,60,Yes,Good,Rainy,525,Yes,Bicycle,4,8,Morning,2,8
+INC00822,2025-07-03,20:15,River Bridge,Serious,Urban Road,T-Junction,50,Yes,Moderate,Rainy,83,No,Car,3,20,Evening,3,7
+INC00823,2024-08-19,14:30,Highway East,Serious,Urban Road,Crossroad,40,No,Moderate,Cloudy,312,No,Car,3,14,Afternoon,0,8
+INC00824,2024-09-10,04:45,River Bridge,Minor,School Zone,No Junction,30,No,Good,Clear,747,No,Bicycle,1,4,Night,1,9
+INC00825,2025-09-26,01:00,Central Junction,Minor,Industrial Road,T-Junction,60,No,Good,Rainy,808,No,Truck,3,1,Night,4,9
+INC00826,2025-10-29,00:30,River Bridge,Moderate,Industrial Road,Crossroad,50,No,Good,Foggy,1104,No,Bus,1,0,Night,2,10
+INC00827,2024-09-15,00:00,Market Road,Minor,Highway,T-Junction,50,No,Good,Clear,1342,No,Two-wheeler,3,0,Night,6,9
+INC00828,2025-03-12,08:30,Central Junction,Serious,Residential Road,Crossroad,60,No,Good,Foggy,844,Yes,Truck,3,8,Morning,2,3
+INC00829,2025-07-01,07:15,Highway East,Moderate,Residential Road,Roundabout,30,Yes,Moderate,Clear,799,Yes,Truck,2,7,Morning,1,7
+INC00830,2024-09-22,14:30,School Zone,Minor,Residential Road,No Junction,40,No,Poor,Clear,469,No,Truck,3,14,Afternoon,6,9
+INC00831,2024-09-01,16:30,Industrial Area,Moderate,Highway,Crossroad,80,No,Moderate,Clear,612,No,Bicycle,2,16,Afternoon,6,9
+INC00832,2024-07-05,05:15,Highway East,Moderate,Highway,Crossroad,40,Yes,Poor,Clear,1482,No,Truck,3,5,Morning,4,7
+INC00833,2025-03-02,02:45,Bus Stand Road,Minor,Residential Road,Crossroad,80,No,Good,Clear,703,No,Truck,4,2,Night,6,3
+INC00834,2025-01-25,22:00,Highway East,Minor,Urban Road,No Junction,50,No,Good,Cloudy,1068,No,Van,4,22,Night,5,1
+INC00835,2025-08-04,02:30,Industrial Area,Minor,Residential Road,T-Junction,40,No,Good,Clear,346,No,Two-wheeler,3,2,Night,0,8
+INC00836,2024-03-08,11:00,Industrial Area,Minor,Urban Road,T-Junction,40,No,Good,Clear,1290,No,Bicycle,1,11,Morning,4,3
+INC00837,2025-03-26,02:00,Highway East,Moderate,Residential Road,Crossroad,60,Yes,Good,Clear,792,No,Bicycle,4,2,Night,2,3
+INC00838,2024-04-08,14:30,Industrial Area,Moderate,School Zone,T-Junction,50,No,Good,Clear,927,No,Car,1,14,Afternoon,0,4
+INC00839,2024-01-13,07:45,Bus Stand Road,Minor,Residential Road,Roundabout,50,No,Good,Clear,887,Yes,Van,3,7,Morning,5,1
+INC00840,2024-12-16,03:45,River Bridge,Fatal,Highway,No Junction,60,No,Poor,Rainy,743,No,Car,3,3,Night,0,12
+INC00841,2024-02-07,20:30,River Bridge,Minor,Urban Road,Crossroad,30,No,Good,Clear,1430,No,Truck,4,20,Evening,2,2
+INC00842,2024-09-17,08:45,Industrial Area,Moderate,Highway,Roundabout,60,Yes,Good,Cloudy,1076,Yes,Bus,1,8,Morning,1,9
+INC00843,2024-06-01,08:15,School Zone,Serious,Residential Road,No Junction,80,No,Good,Clear,949,Yes,Two-wheeler,1,8,Morning,5,6
+INC00844,2024-05-06,20:30,Industrial Area,Moderate,Residential Road,Roundabout,50,No,Moderate,Clear,1397,No,Van,1,20,Evening,0,5
+INC00845,2025-02-15,21:30,Highway East,Moderate,Residential Road,T-Junction,40,Yes,Good,Clear,535,No,Two-wheeler,2,21,Night,5,2
+INC00846,2024-09-06,05:45,Industrial Area,Minor,Urban Road,T-Junction,60,Yes,Moderate,Clear,56,No,Car,1,5,Morning,4,9
+INC00847,2025-11-30,23:00,Highway East,Minor,School Zone,Roundabout,50,No,Good,Clear,223,No,Two-wheeler,4,23,Night,6,11
+INC00848,2024-03-13,01:45,College Road,Minor,Residential Road,Crossroad,60,No,Poor,Clear,906,No,Van,2,1,Night,2,3
+INC00849,2024-02-17,14:15,Highway East,Minor,Highway,T-Junction,50,No,Good,Rainy,1334,No,Bicycle,4,14,Afternoon,5,2
+INC00850,2025-05-24,10:00,School Zone,Minor,Industrial Road,No Junction,50,No,Good,Clear,591,No,Car,1,10,Morning,5,5
+INC00851,2025-03-10,16:45,River Bridge,Serious,School Zone,No Junction,60,No,Moderate,Foggy,658,No,Van,2,16,Afternoon,0,3
+INC00852,2025-03-05,03:15,River Bridge,Moderate,Residential Road,Crossroad,60,Yes,Good,Rainy,191,No,Truck,1,3,Night,2,3
+INC00853,2024-07-07,02:15,Industrial Area,Moderate,Industrial Road,Roundabout,40,No,Moderate,Clear,1481,No,Car,3,2,Night,6,7
+INC00854,2025-08-19,20:45,River Bridge,Minor,Residential Road,Roundabout,40,Yes,Moderate,Clear,1163,No,Car,4,20,Evening,1,8
+INC00855,2025-12-28,16:45,Market Road,Fatal,Industrial Road,T-Junction,60,Yes,Good,Clear,344,No,Two-wheeler,4,16,Afternoon,6,12
+INC00856,2025-05-14,05:15,Market Road,Serious,Industrial Road,No Junction,50,Yes,Moderate,Clear,1496,No,Truck,3,5,Morning,2,5
+INC00857,2024-01-05,04:30,Industrial Area,Minor,Highway,T-Junction,50,No,Good,Rainy,469,No,Two-wheeler,1,4,Night,4,1
+INC00858,2024-11-12,11:15,River Bridge,Moderate,Urban Road,T-Junction,40,Yes,Good,Clear,519,No,Bicycle,2,11,Morning,1,11
+INC00859,2025-11-17,23:15,Market Road,Moderate,Residential Road,Crossroad,50,No,Moderate,Cloudy,613,No,Truck,2,23,Night,0,11
+INC00860,2025-10-05,00:15,Highway East,Minor,Urban Road,Roundabout,50,No,Good,Clear,1356,No,Car,1,0,Night,6,10
+INC00861,2025-02-22,19:00,School Zone,Serious,Urban Road,T-Junction,30,No,Good,Rainy,243,Yes,Bicycle,4,19,Evening,5,2
+INC00862,2025-07-05,01:00,Market Road,Minor,School Zone,No Junction,40,No,Good,Clear,1377,No,Two-wheeler,1,1,Night,5,7
+INC00863,2024-08-08,10:30,Industrial Area,Moderate,Industrial Road,T-Junction,80,No,Moderate,Cloudy,488,No,Car,4,10,Morning,3,8
+INC00864,2024-12-13,11:30,College Road,Fatal,Residential Road,T-Junction,60,Yes,Moderate,Clear,781,No,Bicycle,1,11,Morning,4,12
+INC00865,2025-09-05,07:30,Central Junction,Minor,Urban Road,Roundabout,50,Yes,Good,Foggy,491,Yes,Truck,4,7,Morning,4,9
+INC00866,2025-02-24,02:45,Highway East,Serious,Urban Road,Roundabout,60,No,Good,Clear,455,No,Bicycle,3,2,Night,0,2
+INC00867,2025-07-22,22:00,Central Junction,Serious,Highway,T-Junction,50,No,Good,Clear,647,No,Bus,1,22,Night,1,7
+INC00868,2025-06-10,06:15,College Road,Serious,Residential Road,Roundabout,60,Yes,Good,Foggy,1045,No,Bicycle,2,6,Morning,1,6
+INC00869,2024-05-23,16:15,Highway East,Moderate,School Zone,Crossroad,40,No,Good,Clear,1074,No,Bicycle,4,16,Afternoon,3,5
+INC00870,2025-07-20,17:00,Central Junction,Minor,Industrial Road,T-Junction,40,No,Poor,Clear,678,Yes,Two-wheeler,3,17,Evening,6,7
+INC00871,2024-05-19,12:00,Industrial Area,Minor,Industrial Road,T-Junction,30,Yes,Good,Clear,1460,No,Car,1,12,Afternoon,6,5
+INC00872,2024-05-16,05:00,Market Road,Minor,Residential Road,T-Junction,50,No,Good,Clear,1411,No,Bus,4,5,Morning,3,5
+INC00873,2024-04-06,20:15,Central Junction,Minor,School Zone,Crossroad,60,No,Moderate,Clear,1490,No,Van,3,20,Evening,5,4
+INC00874,2025-03-20,20:45,Industrial Area,Minor,Industrial Road,No Junction,50,No,Poor,Clear,1119,No,Two-wheeler,1,20,Evening,3,3
+INC00875,2024-04-22,09:30,Highway East,Moderate,School Zone,No Junction,50,Yes,Poor,Clear,301,Yes,Van,1,9,Morning,0,4
+INC00876,2024-04-29,18:00,Central Junction,Serious,School Zone,Crossroad,30,Yes,Moderate,Rainy,1142,Yes,Two-wheeler,1,18,Evening,0,4
+INC00877,2024-06-28,06:45,Market Road,Moderate,Urban Road,Crossroad,30,No,Good,Rainy,535,No,Bus,2,6,Morning,4,6
+INC00878,2025-11-29,22:45,Bus Stand Road,Minor,Residential Road,No Junction,50,No,Good,Rainy,838,No,Car,1,22,Night,5,11
+INC00879,2025-06-17,18:00,College Road,Serious,Industrial Road,No Junction,50,No,Moderate,Cloudy,1477,Yes,Car,2,18,Evening,1,6
+INC00880,2025-10-25,06:00,Highway East,Fatal,Industrial Road,Crossroad,80,No,Poor,Clear,547,No,Two-wheeler,3,6,Morning,5,10
+INC00881,2024-07-15,05:30,College Road,Serious,Residential Road,Roundabout,60,Yes,Good,Rainy,733,No,Van,1,5,Morning,0,7
+INC00882,2025-05-31,07:30,Bus Stand Road,Minor,Urban Road,Roundabout,50,Yes,Moderate,Rainy,895,Yes,Bicycle,4,7,Morning,5,5
+INC00883,2024-02-09,16:15,Highway East,Moderate,Highway,T-Junction,50,No,Good,Clear,505,No,Van,3,16,Afternoon,4,2
+INC00884,2024-01-20,13:15,Central Junction,Moderate,Industrial Road,T-Junction,50,No,Good,Cloudy,537,No,Truck,1,13,Afternoon,5,1
+INC00885,2024-06-17,11:30,Highway East,Moderate,Industrial Road,T-Junction,60,No,Moderate,Clear,1237,No,Car,3,11,Morning,0,6
+INC00886,2025-08-13,01:00,Industrial Area,Serious,School Zone,Crossroad,40,Yes,Moderate,Rainy,167,No,Car,2,1,Night,2,8
+INC00887,2024-10-24,09:00,School Zone,Minor,Industrial Road,T-Junction,50,No,Moderate,Clear,1225,Yes,Car,3,9,Morning,3,10
+INC00888,2024-05-05,18:30,College Road,Fatal,Urban Road,Crossroad,30,No,Moderate,Clear,1298,Yes,Bicycle,3,18,Evening,6,5
+INC00889,2024-11-04,05:30,Central Junction,Minor,Residential Road,Crossroad,30,No,Good,Cloudy,1378,No,Van,3,5,Morning,0,11
+INC00890,2024-11-24,18:15,River Bridge,Moderate,Highway,No Junction,60,No,Good,Clear,450,Yes,Bus,3,18,Evening,6,11
+INC00891,2025-05-26,17:45,Industrial Area,Serious,Industrial Road,T-Junction,60,No,Moderate,Cloudy,1238,Yes,Van,3,17,Evening,0,5
+INC00892,2024-10-31,01:15,School Zone,Moderate,Highway,T-Junction,50,No,Good,Cloudy,1145,No,Van,2,1,Night,3,10
+INC00893,2025-10-21,16:45,River Bridge,Minor,Highway,Crossroad,60,No,Good,Clear,1441,No,Two-wheeler,4,16,Afternoon,1,10
+INC00894,2024-02-07,11:30,Highway East,Serious,Industrial Road,T-Junction,60,No,Poor,Clear,54,No,Van,1,11,Morning,2,2
+INC00895,2025-08-06,18:00,Industrial Area,Moderate,Urban Road,No Junction,80,Yes,Good,Clear,72,Yes,Van,1,18,Evening,2,8
+INC00896,2025-03-18,13:30,Bus Stand Road,Fatal,Highway,T-Junction,80,No,Moderate,Clear,762,No,Bus,1,13,Afternoon,1,3
+INC00897,2025-02-17,04:00,School Zone,Minor,Highway,Crossroad,60,No,Good,Clear,563,No,Two-wheeler,4,4,Night,0,2
+INC00898,2025-08-24,07:00,School Zone,Moderate,Residential Road,Crossroad,80,No,Good,Clear,912,Yes,Bicycle,4,7,Morning,6,8
+INC00899,2025-07-13,19:00,Central Junction,Minor,Residential Road,Roundabout,40,No,Good,Cloudy,73,Yes,Truck,4,19,Evening,6,7
+INC00900,2024-04-19,07:00,Highway East,Moderate,Urban Road,T-Junction,50,Yes,Good,Foggy,365,Yes,Car,1,7,Morning,4,4
+INC00901,2025-05-30,12:45,College Road,Serious,Urban Road,Roundabout,30,No,Poor,Clear,1267,No,Car,2,12,Afternoon,4,5
+INC00902,2025-12-09,13:15,Highway East,Minor,School Zone,Crossroad,60,No,Good,Rainy,115,No,Truck,4,13,Afternoon,1,12
+INC00903,2025-07-15,08:15,Central Junction,Serious,School Zone,No Junction,50,No,Good,Clear,1204,Yes,Truck,4,8,Morning,1,7
+INC00904,2025-10-03,03:45,Central Junction,Minor,Highway,T-Junction,60,No,Good,Clear,449,No,Van,4,3,Night,4,10
+INC00905,2024-12-15,05:00,Industrial Area,Minor,Industrial Road,Crossroad,40,No,Good,Clear,1191,No,Bicycle,4,5,Morning,6,12
+INC00906,2025-05-08,07:15,Central Junction,Minor,Urban Road,Roundabout,50,Yes,Poor,Clear,608,Yes,Two-wheeler,4,7,Morning,3,5
+INC00907,2024-12-23,08:00,Bus Stand Road,Moderate,Urban Road,No Junction,60,No,Moderate,Rainy,149,Yes,Bus,3,8,Morning,0,12
+INC00908,2024-04-04,06:00,College Road,Serious,Residential Road,Crossroad,40,No,Moderate,Clear,1411,No,Van,2,6,Morning,3,4
+INC00909,2024-08-02,01:15,Market Road,Minor,Highway,No Junction,60,No,Good,Clear,1133,No,Truck,1,1,Night,4,8
+INC00910,2025-04-09,11:00,Industrial Area,Moderate,Industrial Road,Roundabout,50,Yes,Good,Cloudy,596,No,Van,3,11,Morning,2,4
+INC00911,2024-02-16,20:45,Bus Stand Road,Moderate,Highway,Roundabout,50,No,Poor,Clear,965,No,Car,3,20,Evening,4,2
+INC00912,2024-10-23,21:45,Central Junction,Moderate,Industrial Road,No Junction,60,No,Good,Foggy,688,No,Bus,2,21,Night,2,10
+INC00913,2025-09-28,12:00,School Zone,Moderate,Highway,Roundabout,40,No,Good,Foggy,1375,No,Truck,3,12,Afternoon,6,9
+INC00914,2025-01-25,16:15,Market Road,Minor,Residential Road,No Junction,30,No,Good,Cloudy,1213,No,Car,1,16,Afternoon,5,1
+INC00915,2024-08-02,12:15,Highway East,Minor,Highway,No Junction,50,No,Good,Cloudy,951,No,Car,3,12,Afternoon,4,8
+INC00916,2025-10-25,03:45,Central Junction,Minor,School Zone,T-Junction,40,Yes,Good,Clear,1361,No,Bicycle,2,3,Night,5,10
+INC00917,2025-12-15,23:45,School Zone,Moderate,School Zone,No Junction,50,No,Moderate,Clear,1270,No,Truck,2,23,Night,0,12
+INC00918,2025-04-15,07:30,School Zone,Moderate,School Zone,No Junction,40,No,Poor,Clear,263,Yes,Car,1,7,Morning,1,4
+INC00919,2024-08-14,02:45,Industrial Area,Fatal,Highway,Crossroad,80,No,Good,Clear,188,No,Van,2,2,Night,2,8
+INC00920,2024-03-24,02:30,Bus Stand Road,Minor,School Zone,Crossroad,60,Yes,Moderate,Clear,62,No,Truck,3,2,Night,6,3
+INC00921,2024-08-02,06:15,School Zone,Serious,Industrial Road,No Junction,50,No,Moderate,Rainy,192,No,Van,4,6,Morning,4,8
+INC00922,2024-05-01,14:45,Market Road,Minor,School Zone,No Junction,50,No,Good,Cloudy,613,No,Van,3,14,Afternoon,2,5
+INC00923,2025-04-02,10:45,School Zone,Moderate,Industrial Road,T-Junction,30,No,Good,Foggy,541,No,Truck,3,10,Morning,2,4
+INC00924,2024-08-06,22:30,Bus Stand Road,Moderate,Industrial Road,No Junction,60,No,Good,Rainy,853,No,Bicycle,2,22,Night,1,8
+INC00925,2025-02-03,05:30,Central Junction,Moderate,Urban Road,Roundabout,80,No,Good,Clear,659,No,Truck,4,5,Morning,0,2
+INC00926,2024-04-09,21:45,Central Junction,Moderate,Industrial Road,Roundabout,50,No,Good,Clear,241,No,Truck,3,21,Night,1,4
+INC00927,2025-07-04,03:00,Central Junction,Moderate,Residential Road,Crossroad,40,No,Good,Clear,1042,No,Bus,2,3,Night,4,7
+INC00928,2025-05-26,18:00,Central Junction,Serious,Residential Road,Roundabout,50,Yes,Good,Rainy,828,Yes,Truck,2,18,Evening,0,5
+INC00929,2024-06-05,15:00,Bus Stand Road,Minor,School Zone,Roundabout,80,Yes,Moderate,Clear,1166,No,Van,4,15,Afternoon,2,6
+INC00930,2024-05-17,16:45,Highway East,Fatal,School Zone,No Junction,50,No,Poor,Rainy,1015,No,Two-wheeler,2,16,Afternoon,4,5
+INC00931,2024-10-12,04:45,School Zone,Moderate,Residential Road,Crossroad,40,Yes,Good,Clear,359,No,Car,2,4,Night,5,10
+INC00932,2025-04-24,18:45,School Zone,Serious,Industrial Road,Crossroad,40,No,Good,Clear,1065,Yes,Car,3,18,Evening,3,4
+INC00933,2024-02-01,19:30,Bus Stand Road,Serious,Residential Road,No Junction,40,No,Good,Clear,852,Yes,Truck,2,19,Evening,3,2
+INC00934,2025-09-21,21:45,College Road,Fatal,Urban Road,Crossroad,60,No,Good,Clear,1267,No,Two-wheeler,4,21,Night,6,9
+INC00935,2024-03-13,01:15,Central Junction,Serious,Highway,Roundabout,40,No,Good,Clear,758,No,Bus,4,1,Night,2,3
+INC00936,2024-02-24,05:15,Central Junction,Moderate,Industrial Road,Crossroad,30,No,Good,Clear,430,No,Truck,3,5,Morning,5,2
+INC00937,2024-07-18,10:45,River Bridge,Moderate,School Zone,T-Junction,30,Yes,Moderate,Cloudy,485,No,Van,4,10,Morning,3,7
+INC00938,2025-04-15,21:30,School Zone,Serious,Industrial Road,No Junction,60,No,Good,Clear,175,No,Truck,4,21,Night,1,4
+INC00939,2025-07-10,01:30,School Zone,Moderate,Urban Road,T-Junction,40,No,Good,Rainy,825,No,Van,4,1,Night,3,7
+INC00940,2024-12-19,20:00,Highway East,Moderate,Highway,T-Junction,40,No,Moderate,Foggy,215,No,Two-wheeler,2,20,Evening,3,12
+INC00941,2024-07-28,12:00,Highway East,Minor,School Zone,Crossroad,50,No,Good,Clear,1128,No,Two-wheeler,2,12,Afternoon,6,7
+INC00942,2025-12-05,16:30,Highway East,Minor,Urban Road,Crossroad,50,Yes,Good,Cloudy,291,No,Car,4,16,Afternoon,4,12
+INC00943,2024-01-21,05:00,Central Junction,Minor,Highway,Roundabout,60,No,Good,Rainy,1063,No,Bicycle,1,5,Morning,6,1
+INC00944,2024-11-09,18:45,Central Junction,Moderate,Industrial Road,T-Junction,40,No,Good,Clear,562,Yes,Van,1,18,Evening,5,11
+INC00945,2025-11-03,05:45,School Zone,Moderate,School Zone,Roundabout,40,No,Good,Clear,963,No,Car,1,5,Morning,0,11
+INC00946,2024-06-28,22:45,Highway East,Minor,Urban Road,Crossroad,60,No,Good,Cloudy,1074,No,Truck,1,22,Night,4,6
+INC00947,2024-12-04,12:45,Central Junction,Serious,School Zone,T-Junction,60,No,Moderate,Clear,465,No,Bicycle,4,12,Afternoon,2,12
+INC00948,2025-05-09,12:15,River Bridge,Moderate,Residential Road,Roundabout,40,No,Good,Rainy,636,No,Bus,3,12,Afternoon,4,5
+INC00949,2024-02-26,02:00,River Bridge,Minor,Urban Road,T-Junction,80,No,Good,Clear,1239,No,Bicycle,3,2,Night,0,2
+INC00950,2024-01-29,03:00,Bus Stand Road,Serious,Urban Road,Crossroad,60,No,Good,Clear,432,No,Bicycle,4,3,Night,0,1
+INC00951,2025-04-29,08:00,Industrial Area,Moderate,Industrial Road,T-Junction,60,No,Good,Clear,982,Yes,Two-wheeler,2,8,Morning,1,4
+INC00952,2025-07-28,22:30,Highway East,Moderate,Highway,Crossroad,60,No,Good,Rainy,878,No,Van,2,22,Night,0,7
+INC00953,2024-05-13,11:15,Highway East,Moderate,School Zone,Roundabout,60,No,Good,Foggy,125,No,Truck,2,11,Morning,0,5
+INC00954,2025-04-16,23:30,Industrial Area,Minor,Urban Road,No Junction,40,No,Good,Foggy,74,No,Bicycle,2,23,Night,2,4
+INC00955,2025-04-18,20:45,Central Junction,Moderate,School Zone,Roundabout,60,No,Good,Rainy,1276,No,Bicycle,1,20,Evening,4,4
+INC00956,2024-07-04,03:15,Industrial Area,Moderate,Urban Road,T-Junction,40,No,Good,Clear,1229,No,Bicycle,1,3,Night,3,7
+INC00957,2024-04-17,11:15,Bus Stand Road,Moderate,Urban Road,Crossroad,30,Yes,Good,Cloudy,1266,No,Car,4,11,Morning,2,4
+INC00958,2025-05-06,07:00,Market Road,Minor,Residential Road,Roundabout,60,No,Moderate,Rainy,1276,Yes,Bicycle,3,7,Morning,1,5
+INC00959,2024-09-23,20:15,Market Road,Serious,School Zone,Roundabout,30,No,Moderate,Clear,843,No,Car,2,20,Evening,0,9
+INC00960,2025-01-01,13:45,Highway East,Minor,Industrial Road,Roundabout,50,No,Good,Clear,643,No,Bicycle,1,13,Afternoon,2,1
+INC00961,2024-05-17,20:00,Central Junction,Moderate,Urban Road,Roundabout,80,Yes,Poor,Clear,935,No,Truck,1,20,Evening,4,5
+INC00962,2025-10-21,04:30,Central Junction,Minor,Industrial Road,No Junction,50,Yes,Good,Clear,1288,No,Two-wheeler,4,4,Night,1,10
+INC00963,2025-12-07,11:30,Central Junction,Minor,Urban Road,No Junction,30,No,Good,Clear,1003,No,Van,4,11,Morning,6,12
+INC00964,2025-08-28,09:30,Highway East,Minor,Highway,T-Junction,50,No,Good,Clear,720,Yes,Bus,1,9,Morning,3,8
+INC00965,2024-10-23,12:45,Bus Stand Road,Minor,School Zone,Crossroad,50,Yes,Poor,Rainy,235,No,Bus,2,12,Afternoon,2,10
+INC00966,2025-07-03,23:45,Market Road,Minor,School Zone,T-Junction,60,Yes,Good,Cloudy,1064,No,Bus,1,23,Night,3,7
+INC00967,2025-04-03,02:45,Industrial Area,Moderate,Highway,T-Junction,60,No,Poor,Rainy,1091,No,Bus,1,2,Night,3,4
+INC00968,2025-08-01,21:00,Central Junction,Minor,School Zone,Roundabout,40,No,Good,Rainy,100,No,Van,4,21,Night,4,8
+INC00969,2025-02-06,13:45,Market Road,Fatal,Industrial Road,Roundabout,50,No,Poor,Clear,1339,No,Two-wheeler,4,13,Afternoon,3,2
+INC00970,2025-08-02,10:45,Central Junction,Minor,Industrial Road,Crossroad,40,Yes,Good,Clear,1494,No,Bicycle,4,10,Morning,5,8
+INC00971,2025-03-05,13:00,Highway East,Minor,Urban Road,Roundabout,60,No,Good,Clear,827,No,Car,2,13,Afternoon,2,3
+INC00972,2025-07-19,18:45,Highway East,Moderate,Highway,No Junction,80,No,Moderate,Cloudy,1283,Yes,Two-wheeler,3,18,Evening,5,7
+INC00973,2024-03-10,18:30,Market Road,Minor,Industrial Road,No Junction,50,No,Poor,Foggy,1011,Yes,Car,2,18,Evening,6,3
+INC00974,2025-06-29,21:00,Bus Stand Road,Serious,Highway,T-Junction,40,No,Good,Clear,440,No,Car,3,21,Night,6,6
+INC00975,2024-05-14,02:15,College Road,Fatal,Urban Road,Roundabout,60,Yes,Good,Rainy,333,No,Bicycle,1,2,Night,1,5
+INC00976,2025-02-06,22:00,Central Junction,Serious,Highway,No Junction,30,No,Good,Clear,1210,No,Bicycle,4,22,Night,3,2
+INC00977,2025-08-27,07:15,Bus Stand Road,Moderate,Industrial Road,Crossroad,30,No,Good,Clear,966,Yes,Van,2,7,Morning,2,8
+INC00978,2025-04-06,17:45,School Zone,Minor,School Zone,Roundabout,80,No,Good,Rainy,1216,Yes,Van,2,17,Evening,6,4
+INC00979,2025-04-27,13:15,Market Road,Moderate,Urban Road,T-Junction,30,Yes,Good,Rainy,1433,No,Bicycle,3,13,Afternoon,6,4
+INC00980,2025-08-31,23:30,Central Junction,Moderate,Urban Road,Crossroad,60,No,Moderate,Cloudy,1123,No,Truck,1,23,Night,6,8
+INC00981,2024-05-13,18:30,Central Junction,Moderate,School Zone,No Junction,60,No,Good,Clear,846,Yes,Truck,3,18,Evening,0,5
+INC00982,2024-06-06,09:15,Bus Stand Road,Minor,Urban Road,Crossroad,40,No,Good,Foggy,532,Yes,Two-wheeler,1,9,Morning,3,6
+INC00983,2024-06-18,19:45,Industrial Area,Minor,Highway,T-Junction,60,Yes,Moderate,Clear,514,Yes,Bus,1,19,Evening,1,6
+INC00984,2025-11-06,07:15,Central Junction,Moderate,Urban Road,No Junction,60,Yes,Moderate,Rainy,409,Yes,Bus,3,7,Morning,3,11
+INC00985,2024-09-15,01:45,Central Junction,Minor,Urban Road,Roundabout,50,No,Moderate,Clear,1303,No,Bicycle,2,1,Night,6,9
+INC00986,2025-11-03,11:45,Central Junction,Serious,School Zone,Roundabout,60,No,Moderate,Foggy,1197,No,Bus,2,11,Morning,0,11
+INC00987,2024-08-09,14:30,School Zone,Serious,Highway,T-Junction,30,No,Good,Clear,346,No,Truck,1,14,Afternoon,4,8
+INC00988,2025-03-19,11:45,Central Junction,Serious,Residential Road,No Junction,50,Yes,Good,Clear,1072,No,Van,1,11,Morning,2,3
+INC00989,2025-02-09,13:45,College Road,Serious,Residential Road,No Junction,50,No,Good,Cloudy,432,No,Two-wheeler,4,13,Afternoon,6,2
+INC00990,2024-03-23,15:45,Market Road,Minor,Industrial Road,T-Junction,80,No,Good,Clear,94,No,Two-wheeler,3,15,Afternoon,5,3
+INC00991,2025-05-29,10:30,River Bridge,Minor,Industrial Road,No Junction,40,No,Good,Rainy,1107,No,Bus,1,10,Morning,3,5
+INC00992,2024-09-21,16:15,Industrial Area,Fatal,Urban Road,Crossroad,60,Yes,Good,Clear,888,No,Van,1,16,Afternoon,5,9
+INC00993,2025-02-15,11:00,Central Junction,Minor,Residential Road,No Junction,50,No,Moderate,Clear,1056,No,Van,2,11,Morning,5,2
+INC00994,2024-12-20,03:30,Central Junction,Minor,Urban Road,Roundabout,60,No,Moderate,Cloudy,765,No,Bicycle,2,3,Night,4,12
+INC00995,2024-12-06,11:00,Market Road,Minor,Urban Road,No Junction,40,No,Good,Clear,740,No,Bus,1,11,Morning,4,12
+INC00996,2025-03-09,22:15,River Bridge,Minor,Residential Road,No Junction,40,No,Moderate,Clear,415,No,Two-wheeler,4,22,Night,6,3
+INC00997,2025-03-01,04:15,Central Junction,Minor,Highway,No Junction,60,No,Good,Clear,1027,No,Bicycle,3,4,Night,5,3
+INC00998,2025-06-28,16:30,River Bridge,Moderate,Highway,T-Junction,80,No,Good,Cloudy,841,No,Van,1,16,Afternoon,5,6
+INC00999,2024-04-25,04:30,Industrial Area,Moderate,School Zone,T-Junction,30,No,Good,Clear,1090,No,Bicycle,3,4,Night,3,4
+INC01000,2025-10-21,23:00,Central Junction,Moderate,Industrial Road,No Junction,50,No,Poor,Clear,270,No,Van,1,23,Night,1,10
